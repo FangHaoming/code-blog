@@ -4,10 +4,19 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  height: 100%;
+  color: #1c1e21;
+  padding: 4em 0;
+}
+header {
+  background: white;
+  flex: 1;
+}
+.title {
+  font-size: 30px;
 }
 
 @media screen and (max-width: 996px) {
@@ -16,8 +25,3 @@
   }
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}

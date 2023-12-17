@@ -3,32 +3,19 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  title: "Fanghaoming's Code Blog",
+  tagline: 'A place for coding blog and docs',
+  favicon: 'img/favicon.png',
+  url: 'https://fanghaoming.github.io',
   baseUrl: '/code-blog',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'Fanghaoming',
+  projectName: 'code-blog',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['en', 'zh-Hans'],
   },
-
   presets: [
     [
       'classic',
@@ -53,24 +40,23 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: '首页',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Logo',
+        src: 'img/favicon.png',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'docsSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Docs',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/todo', label: 'Todo', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -91,23 +77,6 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
@@ -116,12 +85,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/FangHaoming/code-blog',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Code Blog, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
