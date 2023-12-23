@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fanghaoming.github.io/code-blog/blog</id>
     <title>Fanghaoming's Code Blog Blog</title>
-    <updated>2023-12-23T09:56:08.000Z</updated>
+    <updated>2023-12-23T10:07:41.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fanghaoming.github.io/code-blog/blog"/>
     <subtitle>Fanghaoming's Code Blog Blog</subtitle>
@@ -11,6 +11,8 @@
         <title type="html"><![CDATA[index]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/index</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/index"/>
-        <updated>2023-12-23T09:56:08.000Z</updated>
+        <updated>2023-12-23T10:07:41.000Z</updated>
+        <summary type="html"><![CDATA[have a good good study]]></summary>
+        <content type="html"><![CDATA[<p>have a good good study</p>]]></content>
     </entry>
 </feed>
