@@ -4,7 +4,7 @@
         <title>Fanghaoming's Code Blog Blog</title>
         <link>https://fanghaoming.github.io/code-blog/blog</link>
         <description>Fanghaoming's Code Blog Blog</description>
-        <lastBuildDate>Sat, 23 Dec 2023 09:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 09:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[index]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/index</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/index</guid>
-            <pubDate>Sat, 23 Dec 2023 09:48:10 GMT</pubDate>
+            <pubDate>Sat, 23 Dec 2023 09:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
