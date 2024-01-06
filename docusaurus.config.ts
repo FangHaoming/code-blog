@@ -42,6 +42,11 @@ const config: Config = {
   ],
   themeConfig: {
     // image: 'img/docusaurus-social-card.jpg',
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
+    },
     navbar: {
       title: '首页',
       logo: {
@@ -63,28 +68,6 @@ const config: Config = {
           position: 'right',
         },
       ],
-    },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/FangHaoming/code-blog',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Code Blog, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
