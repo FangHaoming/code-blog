@@ -40,6 +40,7 @@ define(["a", "b", "c", "d", "e", "f"], function(a, b, c, d, e, f) {
 <details>
   <summary>示例</summary>
 <pre>
+```js
 /** 网页中引入require.js及main.js **/
 <\script src="js/require.js" data-main="js/main"></>
 /** main.js 入口文件/主模块 **/
@@ -82,6 +83,8 @@ require(['jquery', 'math'],function($, math){
   var sum = math.add(10,20);
   $("#sum").html(sum);
 });
+```
+
 </pre>
 </details>
 
@@ -94,6 +97,7 @@ require(['jquery', 'math'],function($, math){
 <details>
   <summary>示例</summary>
 <pre>
+```js
   /** CMD写法 **/
   define(function(require, exports, module) {
       var a = require('./a'); //在需要时申明
@@ -116,6 +120,7 @@ require(['jquery', 'math'],function($, math){
   seajs.use(['math.js'], function(math){
       var sum = math.add(1+2);
   });
+```
 </pre>
 </details>
 
