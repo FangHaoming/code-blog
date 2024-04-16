@@ -4,7 +4,7 @@
         <title>Fanghaoming's Code Blog Blog</title>
         <link>https://fanghaoming.github.io/code-blog/blog</link>
         <description>Fanghaoming's Code Blog Blog</description>
-        <lastBuildDate>Mon, 15 Apr 2024 11:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 01:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,9 +12,35 @@
             <title><![CDATA[index]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/index</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/index</guid>
-            <pubDate>Mon, 15 Apr 2024 11:49:47 GMT</pubDate>
+            <pubDate>Tue, 16 Apr 2024 01:27:24 GMT</pubDate>
             <description><![CDATA[have a good good study]]></description>
             <content:encoded><![CDATA[<p>have a good good study</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[todo]]></title>
+            <link>https://fanghaoming.github.io/code-blog/blog/todo</link>
+            <guid>https://fanghaoming.github.io/code-blog/blog/todo</guid>
+            <pubDate>Tue, 16 Apr 2024 01:27:24 GMT</pubDate>
+            <description><![CDATA[roadmap]]></description>
+            <content:encoded><![CDATA[<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadmap</a></p>
+<div style="display:flex;flex-direction:row;justify-content:space-between;line-height:inherit;outline:none;gap:10px;margin:20px auto"><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️️-important--urgent">⚠️‼️ Important &amp; Urgent<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F%EF%B8%8F-important--urgent" class="hash-link" aria-label="⚠️‼️ Important &amp; Urgent的直接链接" title="⚠️‼️ Important &amp; Urgent的直接链接">​</a></h2><ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->?</li>
+</ul></div><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-urgent">‼️ Urgent<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F-urgent" class="hash-link" aria-label="‼️ Urgent的直接链接" title="‼️ Urgent的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->?</li>
+</ul></div></div>
+<div style="display:flex;flex-direction:row;justify-content:space-between;line-height:inherit;outline:none;gap:10px;margin:20px auto"><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-important">⚠️ Important<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F-important" class="hash-link" aria-label="⚠️ Important的直接链接" title="⚠️ Important的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->?</li>
+</ul></div><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/code-blog/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Be a professor in Front End<!-- -->
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Packing</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Code separation</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Performance</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->mono repo &amp; module &amp; micro FE</li>
+</ul>
+</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Algorithm</li>
+</ul></div></div>]]></content:encoded>
         </item>
     </channel>
 </rss>
