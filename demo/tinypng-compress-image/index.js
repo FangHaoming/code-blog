@@ -1,14 +1,13 @@
 const { execSync } = require('child_process');
 const tinify = require("tinify");
+const p = require("path");
+const { apiKeyList } = require('./api-key-list.js')
 const MAX_FREE_COUNT = 500
-
-const apiKeyList = [
-  'ScZkKjbrk7kwdtdnFHCkVHl33WxQl64B'
-]
 
 // Untracked files 读取未缓存的文件
 // const diffOutput = execSync('git ls-files --others --exclude-standard').toString();
 // const filePaths = diffOutput.trim().split('\n');
+
 // tracked files 读取缓存区的文件
 const diffOutput = execSync('git diff --staged --diff-filter=ACMR --name-only -z').toString();
 const filePaths = diffOutput.trim().split('\x00');
@@ -23,12 +22,13 @@ const compressImage = async (preKeyIndex = -1, keyIndex = 0, fileIndex = 0) => {
   if (preKeyIndex !== keyIndex) {
     preKeyIndex = keyIndex
     tinify.key = key
-    await tinify.validate()
+    await tinify.validate().catch(console.trace)
   }
   const compressedCount = tinify.compressionCount || 0
-  const source = tinify.fromFile(path);
+  const filePath = p.join(__dirname, '../..', path)
+  const source = await tinify.fromFile(filePath);
   if (compressedCount + fileIndex + 1 < MAX_FREE_COUNT) {
-    source.toFile(path);
+    await source.toFile(filePath).catch(console.trace);
     fileIndex++
     console.log(`[${fileIndex}/${imgFilePathList.length}]已压缩:${path}`)
   } else {
