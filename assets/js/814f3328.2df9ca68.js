@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcode_blog=self.webpackChunkcode_blog||[]).push([[512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"index","permalink":"/code-blog/blog/index","unlisted":false},{"title":"todo","permalink":"/code-blog/blog/todo","unlisted":false}]}')}}]);
