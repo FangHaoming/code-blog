@@ -4,7 +4,7 @@
         <title>Fanghaoming's Code Blog Blog</title>
         <link>https://fanghaoming.github.io/code-blog/blog</link>
         <description>Fanghaoming's Code Blog Blog</description>
-        <lastBuildDate>Mon, 08 Jul 2024 01:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 02:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[index]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/index</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/index</guid>
-            <pubDate>Mon, 08 Jul 2024 01:28:29 GMT</pubDate>
+            <pubDate>Tue, 09 Jul 2024 02:03:57 GMT</pubDate>
             <description><![CDATA[have a good good study]]></description>
             <content:encoded><![CDATA[<p>have a good good study</p>]]></content:encoded>
         </item>
@@ -20,7 +20,7 @@
             <title><![CDATA[todo]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/todo</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/todo</guid>
-            <pubDate>Mon, 08 Jul 2024 01:28:29 GMT</pubDate>
+            <pubDate>Tue, 09 Jul 2024 02:03:57 GMT</pubDate>
             <description><![CDATA[roadmap]]></description>
             <content:encoded><![CDATA[<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadmap</a></p>
 <div style="display:flex;flex-direction:row;justify-content:space-between;line-height:inherit;outline:none;gap:10px;margin:20px auto"><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️️-important--urgent">⚠️‼️ Important &amp; Urgent<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F%EF%B8%8F-important--urgent" class="hash-link" aria-label="⚠️‼️ Important &amp; Urgent的直接链接" title="⚠️‼️ Important &amp; Urgent的直接链接">​</a></h2><ul class="contains-task-list containsTaskList_mC6p">
@@ -30,7 +30,7 @@
 </ul></div></div>
 <div style="display:flex;flex-direction:row;justify-content:space-between;line-height:inherit;outline:none;gap:10px;margin:20px auto"><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-important">⚠️ Important<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F-important" class="hash-link" aria-label="⚠️ Important的直接链接" title="⚠️ Important的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->?</li>
-</ul></div><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/code-blog/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
+</ul></div><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/code-blog/blog/todo#-make-a-plan" class="hash-link" aria-label="���🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Be a professor in Front End<!-- -->
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Packing</li>
@@ -41,6 +41,27 @@
 </li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Algorithm</li>
 </ul></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[前端体系]]></title>
+            <link>https://fanghaoming.github.io/code-blog/blog/前端体系</link>
+            <guid>https://fanghaoming.github.io/code-blog/blog/前端体系</guid>
+            <pubDate>Tue, 09 Jul 2024 02:03:57 GMT</pubDate>
+            <description><![CDATA[基础]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="基础">基础<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E4%BD%93%E7%B3%BB#%E5%9F%BA%E7%A1%80" class="hash-link" aria-label="基础的直接链接" title="基�础的直接链接">​</a></h3>
+<ul>
+<li>javascript</li>
+<li>html</li>
+<li>css</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="进阶">进阶<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E4%BD%93%E7%B3%BB#%E8%BF%9B%E9%98%B6" class="hash-link" aria-label="进阶的直接链接" title="进阶的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="高级">高级<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E4%BD%93%E7%B3%BB#%E9%AB%98%E7%BA%A7" class="hash-link" aria-label="高级的直接链接" title="高级的直接链接">​</a></h3>
+<ul>
+<li>
+<p>debug</p>
+<p><a href="https://sentry.io/welcome/" target="_blank" rel="noopener noreferrer">sentry</a></p>
+</li>
+</ul>]]></content:encoded>
         </item>
     </channel>
 </rss>
