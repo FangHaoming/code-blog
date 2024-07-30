@@ -4,7 +4,7 @@
         <title>Fanghaoming's Code Blog Blog</title>
         <link>https://fanghaoming.github.io/code-blog/blog</link>
         <description>Fanghaoming's Code Blog Blog</description>
-        <lastBuildDate>Mon, 29 Jul 2024 10:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 07:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[index]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/index</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/index</guid>
-            <pubDate>Mon, 29 Jul 2024 10:28:16 GMT</pubDate>
+            <pubDate>Tue, 30 Jul 2024 07:22:33 GMT</pubDate>
             <description><![CDATA[have a good good study]]></description>
             <content:encoded><![CDATA[<p>have a good good study</p>]]></content:encoded>
         </item>
@@ -20,7 +20,7 @@
             <title><![CDATA[todo]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/todo</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/todo</guid>
-            <pubDate>Mon, 29 Jul 2024 10:28:16 GMT</pubDate>
+            <pubDate>Tue, 30 Jul 2024 07:22:33 GMT</pubDate>
             <description><![CDATA[roadmap]]></description>
             <content:encoded><![CDATA[<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadmap</a></p>
 <div style="display:flex;flex-direction:row;justify-content:space-between;line-height:inherit;outline:none;gap:10px;margin:20px auto"><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️️-important--urgent">⚠️‼️ Important &amp; Urgent<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F%EF%B8%8F-important--urgent" class="hash-link" aria-label="⚠️‼️ Important &amp; Urgent的直接链接" title="⚠️‼️ Important &amp; Urgent的直接链接">​</a></h2><ul class="contains-task-list containsTaskList_mC6p">
@@ -46,7 +46,7 @@
             <title><![CDATA[前端学习网站]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/前端学习网站</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/前端学习网站</guid>
-            <pubDate>Mon, 29 Jul 2024 10:28:16 GMT</pubDate>
+            <pubDate>Tue, 30 Jul 2024 07:22:33 GMT</pubDate>
             <description><![CDATA[探索]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索">探索<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E6%8E%A2%E7%B4%A2" class="hash-link" aria-label="探索的直接链接" title="探索的直接链接">​</a></h3>
 <ul>
@@ -54,6 +54,7 @@
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="路线体系">路线/体系<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E8%B7%AF%E7%BA%BF%E4%BD%93%E7%B3%BB" class="hash-link" aria-label="路线/体系的直接链接" title="路线/体系的直接链接">​</a></h3>
 <ul>
+<li><a href="https://f2e.tech/home" target="_blank" rel="noopener noreferrer">阿里巴巴前端知识图谱</a></li>
 <li><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadMap</a></li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="博客">博客<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%8D%9A%E5%AE%A2" class="hash-link" aria-label="博客的直接链接" title="博客的直接链接">​</a></h3>
@@ -62,6 +63,7 @@
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="平台">平台<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%B9%B3%E5%8F%B0" class="hash-link" aria-label="平台的直接链接" title="平台的直接链接">​</a></h3>
 <ul>
+<li><a href="https://nodejs.org/api/esm.html" target="_blank" rel="noopener noreferrer">nodejs</a></li>
 <li><a href="https://web.dev/" target="_blank" rel="noopener noreferrer">web.dev</a></li>
 <li><a href="https://bundlers.tooling.report/" target="_blank" rel="noopener noreferrer">Tooling.Report 构建工具对比</a></li>
 </ul>
@@ -71,6 +73,7 @@
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="playground">playground<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#playground" class="hash-link" aria-label="playground的直接链接" title="playground的直接链接">​</a></h3>
 <ul>
+<li><a href="https://www.typescriptlang.org/play" target="_blank" rel="noopener noreferrer">typescript</a></li>
 <li><a href="https://webapis-playground.vercel.app/" target="_blank" rel="noopener noreferrer">webAPI</a></li>
 <li><a href="https://csscoco.com/inspiration/#/" target="_blank" rel="noopener noreferrer">css inspiration</a></li>
 </ul>]]></content:encoded>
@@ -79,7 +82,7 @@
             <title><![CDATA[前端杂记]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/前端杂记</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/前端杂记</guid>
-            <pubDate>Mon, 29 Jul 2024 10:28:16 GMT</pubDate>
+            <pubDate>Tue, 30 Jul 2024 07:22:33 GMT</pubDate>
             <description><![CDATA[调试]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="调试">调试<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E8%B0%83%E8%AF%95" class="hash-link" aria-label="调试的直接链接" title="调试的直接链接">​</a></h3>
 <ul>
@@ -120,7 +123,7 @@
             <title><![CDATA[记一次nginx转发代理https报502]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/记一次nginx转发代理https报502</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/记一次nginx转发代理https报502</guid>
-            <pubDate>Mon, 29 Jul 2024 10:28:16 GMT</pubDate>
+            <pubDate>Tue, 30 Jul 2024 07:22:33 GMT</pubDate>
             <description><![CDATA[web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。]]></description>
             <content:encoded><![CDATA[<p>web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。</p>
 <p>当多个网站托管在一台服务器上并共享一个IP地址，并且每个网站都有自己的SSL证书，在客户端设备尝试安全地连接到其中一个网站时，服务器可能不知道显示哪个SSL证书。这是因为SSL/TLS握手发生在客户端设备通过HTTP指示连接到某个网站之前。</p>
