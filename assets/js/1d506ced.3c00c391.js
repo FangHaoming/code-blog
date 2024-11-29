@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcode_blog=self.webpackChunkcode_blog||[]).push([[1437],{8838:(e,s,u)=>{u.r(s),u.d(s,{default:()=>c});var a=u(4848);function c(){return(0,a.jsx)(a.Fragment,{children:"This is github app home page."})}}}]);

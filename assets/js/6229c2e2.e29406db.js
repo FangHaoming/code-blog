@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_blog=self.webpackChunkcode_blog||[]).push([[0],{5392:(e,c,l)=>{l.r(c),l.d(c,{default:()=>o});var n=l(7624);function o(){return(0,n.jsx)(n.Fragment,{children:"Todo list"})}}}]);

@@ -4,7 +4,7 @@
         <title>Fanghaoming's Code Blog Blog</title>
         <link>https://fanghaoming.github.io/code-blog/blog</link>
         <description>Fanghaoming's Code Blog Blog</description>
-        <lastBuildDate>Mon, 19 Aug 2024 07:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 17:00:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,26 +12,21 @@
             <title><![CDATA[index]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/index</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/index</guid>
-            <pubDate>Mon, 19 Aug 2024 07:34:41 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
             <description><![CDATA[have a good good study]]></description>
             <content:encoded><![CDATA[<p>have a good good study</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[todo]]></title>
+            <title><![CDATA[TODO]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/todo</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/todo</guid>
-            <pubDate>Mon, 19 Aug 2024 07:34:41 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
             <description><![CDATA[roadmap]]></description>
             <content:encoded><![CDATA[<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadmap</a></p>
-<div style="display:flex;flex-direction:row;justify-content:space-between;line-height:inherit;outline:none;gap:10px;margin:20px auto"><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️️-important--urgent">⚠️‼️ Important &amp; Urgent<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F%EF%B8%8F-important--urgent" class="hash-link" aria-label="⚠️‼️ Important &amp; Urgent的直接链接" title="⚠️‼️ Important &amp; Urgent的直接链接">​</a></h2><ul class="contains-task-list containsTaskList_mC6p">
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->?</li>
-</ul></div><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-urgent">‼️ Urgent<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F-urgent" class="hash-link" aria-label="‼️ Urgent的直接链接" title="‼️ Urgent的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->?</li>
-</ul></div></div>
-<div style="display:flex;flex-direction:row;justify-content:space-between;line-height:inherit;outline:none;gap:10px;margin:20px auto"><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-important">⚠️ Important<a href="https://fanghaoming.github.io/code-blog/blog/todo#%EF%B8%8F-important" class="hash-link" aria-label="⚠️ Important的直接链接" title="⚠️ Important的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->?</li>
-</ul></div><div style="min-width:1px;padding:10px;display:block;line-height:1.72;outline:none;flex:1;border:1px solid #E7E9E8;border-radius:6px"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/code-blog/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h3><ul class="contains-task-list containsTaskList_mC6p">
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Be a professor in Front End<!-- -->
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/code-blog/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h2>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item">
+<p><input type="checkbox" disabled=""> <!-- -->Be a professor in Front End</p>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Packing</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Code separation</li>
@@ -39,20 +34,237 @@
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->mono repo &amp; module &amp; micro FE</li>
 </ul>
 </li>
-<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Algorithm</li>
-</ul></div></div>]]></content:encoded>
+<li class="task-list-item">
+<p><input type="checkbox" disabled=""> <!-- -->Algorithm</p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Dynamic Programming</li>
+</ul>
+</li>
+</ul>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[前端中的【道】]]></title>
-            <link>https://fanghaoming.github.io/code-blog/blog/前端中的【道】</link>
-            <guid>https://fanghaoming.github.io/code-blog/blog/前端中的【道】</guid>
-            <pubDate>Mon, 19 Aug 2024 07:34:41 GMT</pubDate>
+            <title><![CDATA[术]]></title>
+            <link>https://fanghaoming.github.io/code-blog/blog/【术】</link>
+            <guid>https://fanghaoming.github.io/code-blog/blog/【术】</guid>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
+            <description><![CDATA[“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common">Common<a href="https://fanghaoming.github.io/code-blog/blog/%E3%80%90%E6%9C%AF%E3%80%91#common" class="hash-link" aria-label="Common的直接链接" title="Common的直接链接">​</a></h2>
+<ul>
+<li>Docker。容器化部署</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="front-end">Front End<a href="https://fanghaoming.github.io/code-blog/blog/%E3%80%90%E6%9C%AF%E3%80%91#front-end" class="hash-link" aria-label="Front End的直接链接" title="Front End的直接链接">​</a></h2>
+<ul>
+<li>浏览器基础样式统一化。Normalize.css、@tailwind base</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[道]]></title>
+            <link>https://fanghaoming.github.io/code-blog/blog/【道】</link>
+            <guid>https://fanghaoming.github.io/code-blog/blog/【道】</guid>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
+            <description><![CDATA[道，侧重于根本性、指导性原则，代表事物的本源和规律。]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>道，侧重于根本性、指导性原则，代表事物的本源和规律。</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common">common<a href="https://fanghaoming.github.io/code-blog/blog/%E3%80%90%E9%81%93%E3%80%91#common" class="hash-link" aria-label="common的直接链接" title="common的直接链接">​</a></h2>
+<ul>
+<li>切片组合思想（Fragment and Combination）</li>
+<li>代码复用（Develop once, use everywhere）</li>
+</ul>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>路由（Router）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>路由是指在应用中，根据特定的 URL 请求路径，将请求映射到相应的处理逻辑（例如控制器方法）。它是前后端通信的关键分，定义了应用程序 响应客户端请求的方式。</p><p>用途：</p><ul>
+<li>在前端：管理页面导航（如 React Router 或 Vue Router）。</li>
+<li>在后端：处理 HTTP 请求，路由到对应的控制器（如 Express、NestJS 中的路由）。</li>
+</ul><p>相关概念：</p><ul>
+<li>动态路由： 根据路径参数动态匹配 URL（如 /user/<!-- -->:id<!-- -->）。</li>
+<li>嵌套路由： 在一个路由中包含子路由（如 parent/child）。</li>
+<li>路由守卫（Guard）： 用于限制特定路由的访问权限。</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>中间件（Middleware）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>中间件是程序中一个用于拦截和处理请求或响应的函数。它可以在请求到达路由处理器之前，或者响应返回客户端之前，添加通逻辑（如日志记  录、认证检查等）。</p><p>用途：</p><ul>
+<li>在 Express 中，定义请求处理的管道。</li>
+<li>在 NestJS 中，中间件是特定于模块的。</li>
+</ul><p>相关概念：</p><ul>
+<li>请求管道： 请求在到达最终路由之前通过的中间件队列。</li>
+<li>全局中间件： 应用程序中对所有请求生效的中间件。</li>
+<li>错误处理中间件： 专门用于捕获和处理错误的中间件。</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>拦截器（Interceptor）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>拦截器用于在处理请求或响应时，拦截并对其进行预处理或后处理。它通常用于修改数据、日志记录、缓存、转换等。</p><p>用途：</p><ul>
+<li>在 NestJS 中，拦截器用于扩展请求管道的功能，例如对响应进行数据格式化。</li>
+<li>在前端（如 Axios 拦截器），用于在 HTTP 请求或响应时统一添加操作。</li>
+</ul><p>相关概念：</p><ul>
+<li>过滤器（Filter）： 专门用于捕获异常或过滤特定数据。</li>
+<li>钩子（Hooks）： 用于在特定生命周期中执行操作。</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>装饰器（Decorator）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>装饰器是一种特殊的函数，用于在类、方法、属性、参数等上动态添加元数据或功能。它是元编程的一部分。</p><p>用途：</p><ul>
+<li>
+<p>在 TypeScript 中，装饰器用于添加类型信息或行为（如 @Component）。</p>
+</li>
+<li>
+<p>在 NestJS 中，用于定义控制器、路由等（如 @Controller, @Get, @Inject）。</p>
+<p>相关概念：</p>
+</li>
+<li>
+<p>元数据（Metadata）： 描述对象信息的数据（如 Reflect-metadata）。</p>
+</li>
+<li>
+<p>注解（Annotations）： 装饰器的一种具体应用，常见于 Java 和 Spring。</p>
+</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>依赖注入（Dependency Injection，DI）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>依赖注入是一种设计模式，指将对象的依赖（例如服务或配置）从外部传递到对象中，而不是对象自己创建依赖。</p><p>用途：</p><ul>
+<li>提高代码可测试性和模块化。</li>
+<li>在 NestJS 或 Angular 中，通过构造函数注入依赖（如服务）。</li>
+</ul><p>相关概念：</p><ul>
+<li>服务容器（Service Container）： 管理依赖关系的核心机制。</li>
+<li>注入器（Injector）： 提供依赖实例的工具。</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>控制反转（Inversion of Control，IoC）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>控制反转是一种设计原则，将对象的创建和管理的控制权从代码中移交给框架或容器。它是依赖注入的基础。</p><p>用途：</p><ul>
+<li>在 NestJS 中，通过 IoC 容器管理服务的实例化。</li>
+<li>提供松耦合的设计。</li>
+</ul><p>相关概念：</p><ul>
+<li>工厂模式（Factory Pattern）： 通过工厂方法创建对象。</li>
+<li>DI 容器： IoC 的核心工具，用于自动注入依赖。</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>关注点分离（Separation of Concerns，SoC）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>关注点分离是一种设计原则，旨在将系统的不同职责分离到独立模块或层次中，以便更容易维护和扩展。</p><p>用途：</p><ul>
+<li>将前端和后端逻辑分开。</li>
+<li>在 MVC（Model-View-Controller）架构中分离模型、视图和控制器。</li>
+</ul><p>相关概念：</p><ul>
+<li>单一职责原则（SRP）： 每个模块或类只负责一个职责。</li>
+<li>模块化设计： 将系统划分为多个独立模块。</li>
+<li>分层架构： 例如三层架构（表示层、业务逻辑层、数据层）。</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>模块化（Modularity）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>模块化是一种软件设计技术，将系统拆分为多个独立且高度内聚的模块，每个模块封装其特定功能，并通过定义良好的接口与其他模块交互。</p><p>用途：</p><ol>
+<li>代码组织：</li>
+</ol><ul>
+<li>
+<p>提高代码的可读性、可维护性。</p>
+</li>
+<li>
+<p>使项目结构清晰。</p>
+<ol start="2">
+<li>团队协作：</li>
+</ol>
+</li>
+<li>
+<p>不同团队可以独立开发模块，降低耦合。</p>
+<ol start="3">
+<li>复用性：</li>
+</ol>
+</li>
+<li>
+<p>通过封装和接口实现，模块可以在多个项目中复用。</p>
+<ol start="4">
+<li>调试和测试：</li>
+</ol>
+</li>
+<li>
+<p>独立模块可以单独测试，降低复杂性。</p>
+</li>
+</ul><p>相关概念：</p><ul>
+<li>模块（Module）：</li>
+<li>封装功能的独立单元，包含代码和资源（如 ES Modules、CommonJS 模块）。</li>
+<li>例如在 JavaScript 中，import 和 export 用于模块化。</li>
+<li>封装（Encapsulation）：</li>
+<li>将实现细节隐藏在模块中，仅暴露必要接口供外部使用。</li>
+<li>组件化（Componentization）：</li>
+<li>模块化的一种具体实现形式，常用于前端开发（如 React、Vue 中的组件）。</li>
+<li>分层架构（Layered Architecture）：</li>
+<li>通过逻辑分层（UI 层、业务逻辑层、数据层）实现模块化。</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>AOP（面向切面编程，Aspect-Oriented Programming）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>AOP 是一种编程范式，旨在通过分离横切关注点（Cross-Cutting Concerns）来增强关注点分离。横切关注点是指影响多个模块但不属于主要  业务逻辑的功能，例如日志记录、安全检查、事务管理等。</p><p>用途：</p><ol>
+<li>增强关注点分离：</li>
+</ol><ul>
+<li>
+<p>将非核心业务逻辑（如日志、缓存）从主要代码中提取出来。</p>
+<ol>
+<li>简化代码：</li>
+</ol>
+</li>
+<li>
+<p>避免在多个地方重复实现横切关注点，减少代码冗余。</p>
+<ol>
+<li>动态扩展功能：</li>
+</ol>
+</li>
+<li>
+<p>可以在不修改原代码的情况下动态添加行为（例如通过装饰器、拦截器）。</p>
+<ol>
+<li>提高代码可维护性：</li>
+</ol>
+</li>
+<li>
+<p>将关注点集中管理，使核心逻辑更加清晰。</p>
+</li>
+</ul><p>相关概念：</p><ul>
+<li>横切关注点（Cross-Cutting Concerns）：</li>
+<li>功能性需求，通常跨越多个模块（如安全性、事务性）。</li>
+<li>切面（Aspect）：</li>
+<li>表示横切关注点的实现单元（如日志切面、权限切面）。</li>
+<li>切入点（Join Point）：</li>
+<li>代码中允许横切逻辑插入的位置（如方法执行、属性访问）。</li>
+<li>通知（Advice）：</li>
+<li>在切入点处执行的操作（如方法前执行、方法后执行）。</li>
+<li>装饰器和拦截器：</li>
+<li>在 AOP 中实现横切关注点的常用工具。</li>
+</ul></div></div></details>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>微服务（Microservices）</summary><div><div class="collapsibleContent_i85q"><p>定义：</p><p>微服务是一种架构风格，将单体应用拆分为多个独立的小服务，每个服务负责特定领域，具有独立的数据库、代码库和部署生命周期。服务之间通过  轻量协议（如 HTTP、消息队列）通信。</p><p>用途：</p><ol>
+<li>解耦：</li>
+</ol><ul>
+<li>各服务独立运行、部署和扩展，降低模块间的依赖性。</li>
+</ul><ol start="2">
+<li>技术灵活性：</li>
+</ol><ul>
+<li>不同服务可以采用不同的技术栈和编程语言。</li>
+</ul><ol start="3">
+<li>独立部署：</li>
+</ol><ul>
+<li>单一服务的修改不会影响整个系统，支持快速迭代。</li>
+</ul><ol start="4">
+<li>弹性扩展：</li>
+</ol><ul>
+<li>根据流量需求，独立扩展某些服务（如只扩展用户服务）。</li>
+</ul><ol start="5">
+<li>高可用性：</li>
+</ol><ul>
+<li>某些服务失败时，其他服务仍可运行，减少系统崩溃风险。</li>
+</ul><p>相关概念：</p><ol>
+<li>单体架构（Monolithic Architecture）：</li>
+</ol><ul>
+<li>与微服务对立，所有功能放在一个整体中。</li>
+<li>适合小型项目，但扩展性和维护性差。</li>
+</ul><ol start="2">
+<li>服务发现（Service Discovery）：</li>
+</ol><ul>
+<li>微服务动态注册和寻找其他服务的机制。</li>
+</ul><ol start="3">
+<li>API 网关（API Gateway）：</li>
+</ol><ul>
+<li>微服务的入口，负责路由请求、认证等功能。</li>
+</ul><ol start="4">
+<li>轻量通信协议：</li>
+</ol><ul>
+<li>服务之间通过 REST、GraphQL 或消息队列（如 RabbitMQ、Kafka）通信。</li>
+</ul><ol start="5">
+<li>容器化（Containerization）：</li>
+</ol><ul>
+<li>微服务通常通过容器（如 Docker）进行封装和部署。</li>
+</ul></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="front-end">Front End<a href="https://fanghaoming.github.io/code-blog/blog/%E3%80%90%E9%81%93%E3%80%91#front-end" class="hash-link" aria-label="Front End的直接链接" title="Front End的直接链接">​</a></h2>
+<ul>
+<li>设计Token</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="back-end">Back End<a href="https://fanghaoming.github.io/code-blog/blog/%E3%80%90%E9%81%93%E3%80%91#back-end" class="hash-link" aria-label="Back End的直接链接" title="Back End的直接链接">​</a></h2>
+<ul>
+<li>服务启动模式。前台启动（命令行）、后台启动（-d detached）</li>
+</ul>
+<div class="language-shell codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-shell codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">docker run my-service</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">docker run -d my-service</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[前端学习网站]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/前端学习网站</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/前端学习网站</guid>
-            <pubDate>Mon, 19 Aug 2024 07:34:41 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
             <description><![CDATA[探索]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索">探索<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E6%8E%A2%E7%B4%A2" class="hash-link" aria-label="探索的直接链接" title="探索的直接链接">​</a></h3>
 <ul>
@@ -65,6 +277,7 @@
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="博客">博客<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%8D%9A%E5%AE%A2" class="hash-link" aria-label="博客的直接链接" title="博客的直接链接">​</a></h3>
 <ul>
+<li><a href="https://www.hello-algo.com/" target="_blank" rel="noopener noreferrer">hello 算法</a></li>
 <li><a href="https://interview.poetries.top/" target="_blank" rel="noopener noreferrer">前端进阶之旅</a></li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="平台">平台<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%B9%B3%E5%8F%B0" class="hash-link" aria-label="平台的直接链接" title="平台的直接链接">​</a></h3>
@@ -88,7 +301,7 @@
             <title><![CDATA[前端杂记]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/前端杂记</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/前端杂记</guid>
-            <pubDate>Mon, 19 Aug 2024 07:34:41 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
             <description><![CDATA[调试]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="调试">调试<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E8%B0%83%E8%AF%95" class="hash-link" aria-label="调试的直接链接" title="调试的直接链接">​</a></h3>
 <ul>
@@ -147,10 +360,68 @@
 </ul>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[工具包]]></title>
+            <link>https://fanghaoming.github.io/code-blog/blog/工具包</link>
+            <guid>https://fanghaoming.github.io/code-blog/blog/工具包</guid>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
+            <description><![CDATA[- 压缩svg]]></description>
+            <content:encoded><![CDATA[<ul>
+<li><a href="https://github.com/svg/svgo" target="_blank" rel="noopener noreferrer">压缩svg</a></li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[微前端]]></title>
+            <link>https://fanghaoming.github.io/code-blog/blog/微前端</link>
+            <guid>https://fanghaoming.github.io/code-blog/blog/微前端</guid>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
+            <description><![CDATA[monorepo 工具选择]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="monorepo-工具选择">monorepo 工具选择<a href="https://fanghaoming.github.io/code-blog/blog/%E5%BE%AE%E5%89%8D%E7%AB%AF#monorepo-%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9" class="hash-link" aria-label="monorepo 工具选择的直接链接" title="monorepo 工具选择的直接链接">​</a></h2>
+<ul>
+<li>
+<p>Nx</p>
+</li>
+<li>
+<p>Lerna</p>
+</li>
+<li>
+<p>Workspace(yarn/npm/pnpm)</p>
+<p>ps: 在做monorepo时，可以看看当前技术栈CLI是否有提供相关功能，例如：<code>nest-cli</code></p>
+</li>
+</ul>
+<ol>
+<li>Nx 和 Lerna 对比</li>
+</ol>
+<table><thead><tr><th>对比项</th><th><strong>Nx</strong></th><th><strong>Lerna</strong></th></tr></thead><tbody><tr><td><strong>复杂性</strong></td><td>适合复杂项目</td><td>适合简单、多包发布的项目</td></tr><tr><td><strong>开发效率</strong></td><td>提供全面的优化工具</td><td>更专注于发布和依赖管理</td></tr><tr><td><strong>学习成本</strong></td><td>较高，需要理解其功能和机制</td><td>较低，简单易用</td></tr><tr><td><strong>社区支持</strong></td><td>活跃，功能更新频繁</td><td>社区逐渐衰退</td></tr></tbody></table>
+<hr>
+<ol start="2">
+<li>功能对比</li>
+</ol>
+<table><thead><tr><th>功能</th><th>Nx</th><th>Lerna</th></tr></thead><tbody><tr><td><strong>任务调度</strong></td><td>内置智能调度，支持任务依赖分析和并行优化。</td><td>无原生任务调度，但支持通过 npm scripts。</td></tr><tr><td><strong>缓存机制</strong></td><td>强大的分布式缓存（构建和测试的结果可复用）。</td><td>无缓存机制。</td></tr><tr><td><strong>代码生成器</strong></td><td>提供模板代码生成器（React、NestJS 等）。</td><td>不提供。</td></tr><tr><td><strong>依赖管理</strong></td><td>依赖关系分析和图形化展示。</td><td>简单的包间依赖分析。</td></tr><tr><td><strong>版本发布</strong></td><td>支持，但不是主要功能。</td><td>专注于多包发布（如 <code>lerna publish</code>）。</td></tr><tr><td><strong>工具整合</strong></td><td>集成多种前端和后端框架（如 React、NestJS）。</td><td>不集成框架，需手动配置。</td></tr><tr><td><strong>社区生态</strong></td><td>主动开发，快速更新，支持现代技术栈。</td><td>维护较少，社区活跃度有所下降。</td></tr></tbody></table>
+<hr>
+<ol>
+<li>选择建议</li>
+</ol>
+<ul>
+<li><strong>如果是库开发和发布：</strong> 优先选择 <strong>Lerna</strong>。</li>
+<li><strong>如果是微服务或复杂架构：</strong> 优先选择 <strong>Nx</strong>。</li>
+<li><strong>需要两者功能：</strong> Nx 和 Lerna 可以搭配使用。</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[灵感]]></title>
+            <link>https://fanghaoming.github.io/code-blog/blog/灵感</link>
+            <guid>https://fanghaoming.github.io/code-blog/blog/灵感</guid>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
+            <description><![CDATA[- 小程序题库创建器。在学习使用tailwind.css的时候想到——这么多css缩写，要是有个小程序让我闲暇时刷一下就好了。]]></description>
+            <content:encoded><![CDATA[<ul>
+<li>小程序题库创建器。在学习使用tailwind.css的时候想到——这么多css缩写，要是有个小程序让我闲暇时刷一下就好了。</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[私有化部署CMS+服务端渲染实践]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/私有化部署CMS+服务端渲染实践</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/私有化部署CMS+服务端渲染实践</guid>
-            <pubDate>Mon, 19 Aug 2024 07:34:41 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
             <description><![CDATA[tech stack]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tech-stack">tech stack<a href="https://fanghaoming.github.io/code-blog/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#tech-stack" class="hash-link" aria-label="tech stack的直接链接" title="tech stack的直接链接">​</a></h3>
 <p>gatsby + strapi + apolloGraphql + minio</p>
@@ -197,7 +468,7 @@ Gatsby 能够从数据中自动推断出 GraphQL Schema（数据的形状）。c
             <title><![CDATA[记一次nginx转发代理https报502]]></title>
             <link>https://fanghaoming.github.io/code-blog/blog/记一次nginx转发代理https报502</link>
             <guid>https://fanghaoming.github.io/code-blog/blog/记一次nginx转发代理https报502</guid>
-            <pubDate>Mon, 19 Aug 2024 07:34:41 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 17:00:06 GMT</pubDate>
             <description><![CDATA[web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。]]></description>
             <content:encoded><![CDATA[<p>web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。</p>
 <p>当多个网站托管在一台服务器上并共享一个IP地址，并且每个网站都有自己的SSL证书，在客户端设备尝试安全地连接到其中一个网站时，服务器可能不知道显示哪个SSL证书。这是因为SSL/TLS握手发生在客户端设备通过HTTP指示连接到某个网站之前。</p>
