@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fanghaoming.github.io/code-blog/blog</id>
     <title>Fanghaoming's Code Blog Blog</title>
-    <updated>2024-11-29T17:00:06.000Z</updated>
+    <updated>2024-12-06T03:40:56.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fanghaoming.github.io/code-blog/blog"/>
     <subtitle>Fanghaoming's Code Blog Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[index]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/index</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/index"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[have a good good study]]></summary>
         <content type="html"><![CDATA[<p>have a good good study</p>]]></content>
     </entry>
@@ -19,7 +19,7 @@
         <title type="html"><![CDATA[TODO]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/todo</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/todo"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[roadmap]]></summary>
         <content type="html"><![CDATA[<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadmap</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/code-blog/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h2>
@@ -45,7 +45,7 @@
         <title type="html"><![CDATA[术]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/【术】</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/【术】"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。</p>
@@ -63,7 +63,7 @@
         <title type="html"><![CDATA[道]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/【道】</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/【道】"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[道，侧重于根本性、指导性原则，代表事物的本源和规律。]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>道，侧重于根本性、指导性原则，代表事物的本源和规律。</p>
@@ -260,10 +260,44 @@
 <div class="language-shell codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-shell codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">docker run my-service</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">docker run -d my-service</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[vscode-note-manager]]></title>
+        <id>https://fanghaoming.github.io/code-blog/blog/做一个vscode笔记插件</id>
+        <link href="https://fanghaoming.github.io/code-blog/blog/做一个vscode笔记插件"/>
+        <updated>2024-12-06T03:40:56.000Z</updated>
+        <summary type="html"><![CDATA[give me a demo about developing a vscode extension include follow function:]]></summary>
+        <content type="html"><![CDATA[<p>give me a demo about developing a vscode extension include follow function:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="function-points">Function points<a href="https://fanghaoming.github.io/code-blog/blog/%E5%81%9A%E4%B8%80%E4%B8%AAvscode%E7%AC%94%E8%AE%B0%E6%8F%92%E4%BB%B6#function-points" class="hash-link" aria-label="Function points的直接链接" title="Function points的直接链接">​</a></h2>
+<ul>
+<li>Explorer<!-- -->
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->select and show a doc with a view name note-manger, height 200px</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->shortcut key(option + command + N)</li>
+</ul>
+</li>
+<li>Activity Bar<!-- -->
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->File directory tree</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Select multi file/folder</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Add folder/file</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Delete folder/file</li>
+</ul>
+</li>
+<li>Editor<!-- -->
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Rich text(tinymce)/Plain text</li>
+</ul>
+</li>
+</ul>
+<p>选择文件夹/文件，并筛选其中的文本文件和图片，并存在本地</p>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">// 自定义文件树结构</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">type </span><span class="token maybe-class-name">IFileItem</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">path</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> string</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">isFolder</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> boolean</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">children</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token maybe-class-name">IFileItem</span><span class="token punctuation" style="color:#393A34">[</span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">// vscode 文件数据结构</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">type </span><span class="token maybe-class-name">FileItem</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">=</span><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">collapsibleState</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token number" style="color:#36acaa">0</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">label</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'code-frament.md'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">data</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'/Users/fanghaoming/Documents/docs/code-frament.md'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">resourceUri</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token maybe-class-name">Zo</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">scheme</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'file'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">authority</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">''</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">path</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'/Users/fanghaoming/Documents/docs/code-frament.md'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">query</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">''</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">fragment</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">''</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">_formatted</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token keyword null nil" style="color:#00009f">null</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">_fsPath</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token keyword null nil" style="color:#00009f">null</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">command</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">command</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'fileTreeExplorer.itemClicked'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">title</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Item Clicked'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token literal-property property" style="color:#36acaa">arguments</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">[</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">[</span><span class="token maybe-class-name">Circular</span><span class="token plain"> </span><span class="token operator" style="color:#393A34">*</span><span class="token number" style="color:#36acaa">1</span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">iconPath</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> sr </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"> </span><span class="token literal-property property" style="color:#36acaa">id</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'file'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"> </span><span class="token literal-property property" style="color:#36acaa">color</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token keyword nil" style="color:#00009f">undefined</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><a href="https://marketplace.visualstudio.com/manage/publishers/vscode-note-manager" target="_blank" rel="noopener noreferrer">发布页</a></p>
+<p><a href="https://code.visualstudio.com/api/references/icons-in-labels" target="_blank" rel="noopener noreferrer">vscode icon</a></p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前端学习网站]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/前端学习网站</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/前端学习网站"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[探索]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索">探索<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E6%8E%A2%E7%B4%A2" class="hash-link" aria-label="探索的直接链接" title="探索的直接链接">​</a></h3>
 <ul>
@@ -300,7 +334,7 @@
         <title type="html"><![CDATA[前端杂记]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/前端杂记</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/前端杂记"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[调试]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="调试">调试<a href="https://fanghaoming.github.io/code-blog/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E8%B0%83%E8%AF%95" class="hash-link" aria-label="调试的直接链接" title="调试的直接链接">​</a></h3>
 <ul>
@@ -359,10 +393,71 @@
 </ul>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何站在前端角度检查设计稿]]></title>
+        <id>https://fanghaoming.github.io/code-blog/blog/如何站在前端角度检查设计稿</id>
+        <link href="https://fanghaoming.github.io/code-blog/blog/如何站在前端角度检查设计稿"/>
+        <updated>2024-12-06T03:40:56.000Z</updated>
+        <summary type="html"><![CDATA[在需求开发过程中，设计稿的质量直接影响到开发效率和最终产品的效果。如果前端开发人员在拿到设计稿时未及时发现问题，可能会导致开发中途的返工和延误。]]></summary>
+        <content type="html"><![CDATA[<p>在需求开发过程中，设计稿的质量直接影响到开发效率和最终产品的效果。如果前端开发人员在拿到设计稿时未及时发现问题，可能会导致开发中途的<strong>返工</strong>和<strong>延误</strong>。</p>
+<p>本文将从前端角度阐述如何<strong>全面</strong>、<strong>高效</strong>地检查设计稿，<strong>减少</strong>需求开发过程中因设计问题造成的<strong>反复沟通</strong>和<strong>调整</strong>。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="设计稿宽度问题">设计稿宽度问题<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E8%AE%BE%E8%AE%A1%E7%A8%BF%E5%AE%BD%E5%BA%A6%E9%97%AE%E9%A2%98" class="hash-link" aria-label="设计稿宽度问题的直接链接" title="设计稿宽度问题的直接链接">​</a></h2>
+<ul>
+<li>PC端：1920px</li>
+<li>移动端：750px</li>
+<li>对于需要全屏的版块，如首页顶部的banner，设计稿需按照固定的宽高设计。如PC端：1920 * 1080。因为<strong>背景图片会拉伸以适应全屏</strong>，设计时需考虑图片元素的位置。</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="切图问题">切图问题<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%88%87%E5%9B%BE%E9%97%AE%E9%A2%98" class="hash-link" aria-label="切图问题的直接链接" title="切图问题的直接链接">​</a></h2>
+<ul>
+<li>点击设计稿上需要切图的元素，确保元素可以选中、切图</li>
+</ul>
+<p>包括但不限于以下情况需要切图：</p>
+<ul>
+<li>艺术字</li>
+<li>多个边框合成的一个边框</li>
+<li>复杂SVG图标：图标或装饰性元素过于复杂，SVG 文件体积过大，影响性能</li>
+<li>响应式图片：需要在不同屏幕尺寸上加载不同大小的图片，以优化性能。这要求<strong>同样宽高比</strong>的图片，PC端和移动端需要各自切图</li>
+<li>渐变背景：CSS 无法实现的复杂渐变（如多层次颜色变化或不规则渐变）</li>
+<li>纹理背景：设计中使用了细腻的纹理或复杂图案，CSS 难以实现</li>
+<li>透明背景：需要背景图片具有部分透明效果，且不易用 CSS 或 SVG 模拟</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="元素选中问题">元素选中问题<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%85%83%E7%B4%A0%E9%80%89%E4%B8%AD%E9%97%AE%E9%A2%98" class="hash-link" aria-label="元素选中问题的直接链接" title="元素选中问题的直接链接">​</a></h2>
+<ul>
+<li>确保每个层级的元素都可选中</li>
+<li>确保选中的元素的标注信息正确，包括尺寸、间距、颜色值、字体属性等。</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="字体问题">字体问题<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%AD%97%E4%BD%93%E9%97%AE%E9%A2%98" class="hash-link" aria-label="字体问题的直接链接" title="字体问题的直接链接">​</a></h2>
+<ul>
+<li>检查是否使用了免费可商用字体范围之外的字体</li>
+<li>如果字体库不存在设计稿中用到的字体，需要提供对应的字体文件</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="颜色色系问题">颜色/色系问题<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E9%A2%9C%E8%89%B2%E8%89%B2%E7%B3%BB%E9%97%AE%E9%A2%98" class="hash-link" aria-label="颜色/色系问题的直接链接" title="颜色/色系问题的直接链接">​</a></h2>
+<ul>
+<li>颜色规范：确认设计稿中的颜色是否来源于设计系统或品牌规范，避免临时添加的颜色</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="交互问题">交互问题<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E4%BA%A4%E4%BA%92%E9%97%AE%E9%A2%98" class="hash-link" aria-label="交互问题的直接链接" title="交互问题的直接链接">​</a></h2>
+<p><strong>如设计稿中没标明，默认无交互</strong></p>
+<ul>
+<li>确保所有交互式组件（如按钮、输入框、复选框）在设计稿中展示了不同状态（默认、悬停、激活、禁用）</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="多语言导致的排版问题">多语言导致的排版问题<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AF%BC%E8%87%B4%E7%9A%84%E6%8E%92%E7%89%88%E9%97%AE%E9%A2%98" class="hash-link" aria-label="多语言导致的排版问题的直接链接" title="多语言导致的排版问题的直接链接">​</a></h2>
+<ul>
+<li>需要考虑切换语言后不同长度的文本对于排版、布局的影响</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="模块复用">模块复用<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E6%A8%A1%E5%9D%97%E5%A4%8D%E7%94%A8" class="hash-link" aria-label="模块复用的直接链接" title="模块复用的直接链接">​</a></h2>
+<ul>
+<li>尽量使用此前已在设计稿中用过的模块（如按钮、输入框、复选框）</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="写在最后">写在最后<a href="https://fanghaoming.github.io/code-blog/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E" class="hash-link" aria-label="写在最后的直接链接" title="写在最后的直接链接">​</a></h2>
+<ul>
+<li>设计师应导出一份设计稿中的切图，以初步检查设计稿的切图问题</li>
+<li>需求方应根据其需求检查设计稿中的交互样式</li>
+</ul>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[工具包]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/工具包</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/工具包"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[- 压缩svg]]></summary>
         <content type="html"><![CDATA[<ul>
 <li><a href="https://github.com/svg/svgo" target="_blank" rel="noopener noreferrer">压缩svg</a></li>
@@ -372,7 +467,7 @@
         <title type="html"><![CDATA[微前端]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/微前端</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/微前端"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[monorepo 工具选择]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="monorepo-工具选择">monorepo 工具选择<a href="https://fanghaoming.github.io/code-blog/blog/%E5%BE%AE%E5%89%8D%E7%AB%AF#monorepo-%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9" class="hash-link" aria-label="monorepo 工具选择的直接链接" title="monorepo 工具选择的直接链接">​</a></h2>
 <ul>
@@ -410,7 +505,7 @@
         <title type="html"><![CDATA[灵感]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/灵感</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/灵感"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[- 小程序题库创建器。在学习使用tailwind.css的时候想到——这么多css缩写，要是有个小程序让我闲暇时刷一下就好了。]]></summary>
         <content type="html"><![CDATA[<ul>
 <li>小程序题库创建器。在学习使用tailwind.css的时候想到——这么多css缩写，要是有个小程序让我闲暇时刷一下就好了。</li>
@@ -420,7 +515,7 @@
         <title type="html"><![CDATA[私有化部署CMS+服务端渲染实践]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/私有化部署CMS+服务端渲染实践</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/私有化部署CMS+服务端渲染实践"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[tech stack]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tech-stack">tech stack<a href="https://fanghaoming.github.io/code-blog/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#tech-stack" class="hash-link" aria-label="tech stack的直接链接" title="tech stack的直接链接">​</a></h3>
 <p>gatsby + strapi + apolloGraphql + minio</p>
@@ -467,7 +562,7 @@ Gatsby 能够从数据中自动推断出 GraphQL Schema（数据的形状）。c
         <title type="html"><![CDATA[记一次nginx转发代理https报502]]></title>
         <id>https://fanghaoming.github.io/code-blog/blog/记一次nginx转发代理https报502</id>
         <link href="https://fanghaoming.github.io/code-blog/blog/记一次nginx转发代理https报502"/>
-        <updated>2024-11-29T17:00:06.000Z</updated>
+        <updated>2024-12-06T03:40:56.000Z</updated>
         <summary type="html"><![CDATA[web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。]]></summary>
         <content type="html"><![CDATA[<p>web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。</p>
 <p>当多个网站托管在一台服务器上并共享一个IP地址，并且每个网站都有自己的SSL证书，在客户端设备尝试安全地连接到其中一个网站时，服务器可能不知道显示哪个SSL证书。这是因为SSL/TLS握手发生在客户端设备通过HTTP指示连接到某个网站之前。</p>
