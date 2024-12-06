@@ -9,6 +9,8 @@
 
 - [子选择器的优先级大于在子元素上的原子css](https://tailwindcss.com/docs/hover-focus-and-other-states#styling-direct-children)
 
+- 自定义类是在使用的时候动态生成，如`font-[500]`, 如果是在渲染的时候动态去用的话会找不到对应类，如`font-[${weight}]`，对于动态类最好用style内联样式
+
 ## 用CSS常见场景
 
 - 父元素 对 子元素 的样式控制
