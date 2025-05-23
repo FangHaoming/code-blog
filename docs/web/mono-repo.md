@@ -27,6 +27,6 @@
   ```
 
 参考
-> <https://docs.npmjs.com/cli/v10/using-npm/workspaces>
+> https://docs.npmjs.com/cli/v10/using-npm/workspaces
 >
 > [monorepo好处](https://juejin.cn/post/7215886869199896637)
