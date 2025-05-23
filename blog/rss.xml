@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Fanghaoming's Code Blog Blog</title>
-        <link>https://fanghaoming.top/blog</link>
+        <link>https://fanghaoming.github.io/blog</link>
         <description>Fanghaoming's Code Blog Blog</description>
-        <lastBuildDate>Fri, 23 May 2025 07:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 07:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[index]]></title>
-            <link>https://fanghaoming.top/blog/index</link>
-            <guid>https://fanghaoming.top/blog/index</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/index</link>
+            <guid>https://fanghaoming.github.io/blog/index</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[have a good good study]]></description>
             <content:encoded><![CDATA[<p>have a good good study</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TODO]]></title>
-            <link>https://fanghaoming.top/blog/todo</link>
-            <guid>https://fanghaoming.top/blog/todo</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/todo</link>
+            <guid>https://fanghaoming.github.io/blog/todo</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[roadmap]]></description>
             <content:encoded><![CDATA[<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadmap</a></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.top/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h2>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item">
 <p><input type="checkbox" disabled=""> <!-- -->Be a professor in Front End</p>
@@ -44,32 +44,32 @@
         </item>
         <item>
             <title><![CDATA[术]]></title>
-            <link>https://fanghaoming.top/blog/【术】</link>
-            <guid>https://fanghaoming.top/blog/【术】</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/【术】</link>
+            <guid>https://fanghaoming.github.io/blog/【术】</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。</p>
 </blockquote>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common">Common<a href="https://fanghaoming.top/blog/%E3%80%90%E6%9C%AF%E3%80%91#common" class="hash-link" aria-label="Common的直接链接" title="Common的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common">Common<a href="https://fanghaoming.github.io/blog/%E3%80%90%E6%9C%AF%E3%80%91#common" class="hash-link" aria-label="Common的直接链接" title="Common的直接链接">​</a></h2>
 <ul>
 <li>Docker。容器化部署</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="front-end">Front End<a href="https://fanghaoming.top/blog/%E3%80%90%E6%9C%AF%E3%80%91#front-end" class="hash-link" aria-label="Front End的直接链接" title="Front End的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="front-end">Front End<a href="https://fanghaoming.github.io/blog/%E3%80%90%E6%9C%AF%E3%80%91#front-end" class="hash-link" aria-label="Front End的直接链接" title="Front End的直接链接">​</a></h2>
 <ul>
 <li>浏览器基础样式统一化。Normalize.css、@tailwind base</li>
 </ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[道]]></title>
-            <link>https://fanghaoming.top/blog/【道】</link>
-            <guid>https://fanghaoming.top/blog/【道】</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/【道】</link>
+            <guid>https://fanghaoming.github.io/blog/【道】</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[道，侧重于根本性、指导性原则，代表事物的本源和规律。]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>道，侧重于根本性、指导性原则，代表事物的本源和规律。</p>
 </blockquote>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common">common<a href="https://fanghaoming.top/blog/%E3%80%90%E9%81%93%E3%80%91#common" class="hash-link" aria-label="common的直接链接" title="common的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common">common<a href="https://fanghaoming.github.io/blog/%E3%80%90%E9%81%93%E3%80%91#common" class="hash-link" aria-label="common的直接链接" title="common的直接链接">​</a></h2>
 <ul>
 <li>切片组合思想（Fragment and Combination）</li>
 <li>代码复用（Develop once, use everywhere）</li>
@@ -250,11 +250,11 @@
 </ol><ul>
 <li>微服务通常通过容器（如 Docker）进行封装和部署。</li>
 </ul></div></div></details>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="front-end">Front End<a href="https://fanghaoming.top/blog/%E3%80%90%E9%81%93%E3%80%91#front-end" class="hash-link" aria-label="Front End的直接链接" title="Front End的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="front-end">Front End<a href="https://fanghaoming.github.io/blog/%E3%80%90%E9%81%93%E3%80%91#front-end" class="hash-link" aria-label="Front End的直接链接" title="Front End的直接链接">​</a></h2>
 <ul>
 <li>设计Token</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="back-end">Back End<a href="https://fanghaoming.top/blog/%E3%80%90%E9%81%93%E3%80%91#back-end" class="hash-link" aria-label="Back End的直接链接" title="Back End的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="back-end">Back End<a href="https://fanghaoming.github.io/blog/%E3%80%90%E9%81%93%E3%80%91#back-end" class="hash-link" aria-label="Back End的直接链接" title="Back End的直接链接">​</a></h2>
 <ul>
 <li>服务启动模式。前台启动（命令行）、后台启动（-d detached）</li>
 </ul>
@@ -262,9 +262,9 @@
         </item>
         <item>
             <title><![CDATA[个人简历-前端开发工程师]]></title>
-            <link>https://fanghaoming.top/blog/个人简历-前端开发工程师</link>
-            <guid>https://fanghaoming.top/blog/个人简历-前端开发工程师</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/个人简历-前端开发工程师</link>
+            <guid>https://fanghaoming.github.io/blog/个人简历-前端开发工程师</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[个人介绍]]></description>
             <content:encoded><![CDATA[<p>个人介绍</p>
 <p>教育经历</p>
@@ -274,12 +274,12 @@
         </item>
         <item>
             <title><![CDATA[vscode-note-manager]]></title>
-            <link>https://fanghaoming.top/blog/做一个vscode笔记插件</link>
-            <guid>https://fanghaoming.top/blog/做一个vscode笔记插件</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/做一个vscode笔记插件</link>
+            <guid>https://fanghaoming.github.io/blog/做一个vscode笔记插件</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[give me a demo about developing a vscode extension include follow function:]]></description>
             <content:encoded><![CDATA[<p>give me a demo about developing a vscode extension include follow function:</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="function-points">Function points<a href="https://fanghaoming.top/blog/%E5%81%9A%E4%B8%80%E4%B8%AAvscode%E7%AC%94%E8%AE%B0%E6%8F%92%E4%BB%B6#function-points" class="hash-link" aria-label="Function points的直接链接" title="Function points的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="function-points">Function points<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%B8%80%E4%B8%AAvscode%E7%AC%94%E8%AE%B0%E6%8F%92%E4%BB%B6#function-points" class="hash-link" aria-label="Function points的直接链接" title="Function points的直接链接">​</a></h2>
 <ul>
 <li>Explorer<!-- -->
 <ul class="contains-task-list containsTaskList_mC6p">
@@ -308,35 +308,35 @@
         </item>
         <item>
             <title><![CDATA[前端学习网站]]></title>
-            <link>https://fanghaoming.top/blog/前端学习网站</link>
-            <guid>https://fanghaoming.top/blog/前端学习网站</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/前端学习网站</link>
+            <guid>https://fanghaoming.github.io/blog/前端学习网站</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[探索]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索">探索<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E6%8E%A2%E7%B4%A2" class="hash-link" aria-label="探索的直接链接" title="探索的直接链接">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索">探索<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E6%8E%A2%E7%B4%A2" class="hash-link" aria-label="探索的直接链接" title="探索的直接链接">​</a></h3>
 <ul>
 <li><a href="https://webgpu.github.io/webgpu-samples/" target="_blank" rel="noopener noreferrer">webGPU</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="路线体系">路线/体系<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E8%B7%AF%E7%BA%BF%E4%BD%93%E7%B3%BB" class="hash-link" aria-label="路线/体系的直接链接" title="路线/体系的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="路线体系">路线/体系<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E8%B7%AF%E7%BA%BF%E4%BD%93%E7%B3%BB" class="hash-link" aria-label="路线/体系的直接链接" title="路线/体系的直接链接">​</a></h3>
 <ul>
 <li><a href="https://f2e.tech/home" target="_blank" rel="noopener noreferrer">阿里巴巴前端知识图谱</a></li>
 <li><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadMap</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="博客">博客<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%8D%9A%E5%AE%A2" class="hash-link" aria-label="博客的直接链接" title="博客的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="博客">博客<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%8D%9A%E5%AE%A2" class="hash-link" aria-label="博客的直接链接" title="博客的直接链接">​</a></h3>
 <ul>
 <li><a href="https://www.hello-algo.com/" target="_blank" rel="noopener noreferrer">hello 算法</a></li>
 <li><a href="https://interview.poetries.top/" target="_blank" rel="noopener noreferrer">前端进阶之旅</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="平台">平台<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%B9%B3%E5%8F%B0" class="hash-link" aria-label="平台的直接链接" title="平台的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="平台">平台<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%B9%B3%E5%8F%B0" class="hash-link" aria-label="平台的直接链接" title="平台的直接链接">​</a></h3>
 <ul>
 <li><a href="https://nodejs.org/api/esm.html" target="_blank" rel="noopener noreferrer">nodejs</a></li>
 <li><a href="https://web.dev/" target="_blank" rel="noopener noreferrer">web.dev</a></li>
 <li><a href="https://bundlers.tooling.report/" target="_blank" rel="noopener noreferrer">Tooling.Report 构建工具对比</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="工具书">工具书<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%B7%A5%E5%85%B7%E4%B9%A6" class="hash-link" aria-label="工具书的直接链接" title="工具书的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="工具书">工具书<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E5%B7%A5%E5%85%B7%E4%B9%A6" class="hash-link" aria-label="工具书的直接链接" title="工具书的直接链接">​</a></h3>
 <ul>
 <li><a href="https://docshome.gitbook.io/nginx-docs/readme" target="_blank" rel="noopener noreferrer">Nginx中文文档</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="playground">playground<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#playground" class="hash-link" aria-label="playground的直接链接" title="playground的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="playground">playground<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#playground" class="hash-link" aria-label="playground的直接链接" title="playground的直接链接">​</a></h3>
 <ul>
 <li><a href="https://www.typescriptlang.org/play" target="_blank" rel="noopener noreferrer">typescript</a></li>
 <li><a href="https://webapis-playground.vercel.app/" target="_blank" rel="noopener noreferrer">webAPI</a></li>
@@ -345,18 +345,18 @@
         </item>
         <item>
             <title><![CDATA[前端杂记]]></title>
-            <link>https://fanghaoming.top/blog/前端杂记</link>
-            <guid>https://fanghaoming.top/blog/前端杂记</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/前端杂记</link>
+            <guid>https://fanghaoming.github.io/blog/前端杂记</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[调试]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="调试">调试<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E8%B0%83%E8%AF%95" class="hash-link" aria-label="调试的直接链接" title="调试的直接链接">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="调试">调试<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E8%B0%83%E8%AF%95" class="hash-link" aria-label="调试的直接链接" title="调试的直接链接">​</a></h3>
 <ul>
 <li>第三方工具</li>
 </ul>
 <blockquote>
 <p><a href="https://sentry.io/welcome/" target="_blank" rel="noopener noreferrer">sentry</a></p>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="一些常见场景">一些常见场景<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E5%9C%BA%E6%99%AF" class="hash-link" aria-label="一些常见场景的直接链接" title="一些常见场景的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="一些常见场景">一些常见场景<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E5%9C%BA%E6%99%AF" class="hash-link" aria-label="一些常见场景的直接链接" title="一些常见场景的直接链接">​</a></h3>
 <ul>
 <li>多语言</li>
 <li>多主题（风格化）</li>
@@ -383,7 +383,7 @@
 </blockquote>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="素养">素养<a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E7%B4%A0%E5%85%BB" class="hash-link" aria-label="素养的直接链接" title="素养的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="素养">素养<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E7%B4%A0%E5%85%BB" class="hash-link" aria-label="素养的直接链接" title="素养的直接链接">​</a></h3>
 <ul>
 <li><a href="https://docs.docker.com/compose/gettingstarted/" target="_blank" rel="noopener noreferrer">docker 容器</a>
 <blockquote>
@@ -393,7 +393,7 @@
 </blockquote>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="杂"><strong>杂</strong><a href="https://fanghaoming.top/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E6%9D%82" class="hash-link" aria-label="杂的直接链接" title="杂的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="杂"><strong>杂</strong><a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E6%9D%82" class="hash-link" aria-label="杂的直接链接" title="杂的直接链接">​</a></h3>
 <ul>
 <li>衡量代码的复杂度（圈复杂度Cyclomatic Complexity)<!-- -->
 <blockquote>
@@ -407,19 +407,19 @@
         </item>
         <item>
             <title><![CDATA[如何站在前端角度检查设计稿]]></title>
-            <link>https://fanghaoming.top/blog/如何站在前端角度检查设计稿</link>
-            <guid>https://fanghaoming.top/blog/如何站在前端角度检查设计稿</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/如何站在前端角度检查设计稿</link>
+            <guid>https://fanghaoming.github.io/blog/如何站在前端角度检查设计稿</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[在需求开发过程中，设计稿的质量直接影响到开发效率和最终产品的效果。如果前端开发人员在拿到设计稿时未及时发现问题，可能会导致开发中途的返工和延误。]]></description>
             <content:encoded><![CDATA[<p>在需求开发过程中，设计稿的质量直接影响到开发效率和最终产品的效果。如果前端开发人员在拿到设计稿时未及时发现问题，可能会导致开发中途的<strong>返工</strong>和<strong>延误</strong>。</p>
 <p>本文将从前端角度阐述如何<strong>全面</strong>、<strong>高效</strong>地检查设计稿，<strong>减少</strong>需求开发过程中因设计问题造成的<strong>反复沟通</strong>和<strong>调整</strong>。</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="设计稿宽度问题">设计稿宽度问题<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E8%AE%BE%E8%AE%A1%E7%A8%BF%E5%AE%BD%E5%BA%A6%E9%97%AE%E9%A2%98" class="hash-link" aria-label="设计稿宽度问题的直接链接" title="设计稿宽度问题的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="设计稿宽度问题">设计稿宽度问题<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E8%AE%BE%E8%AE%A1%E7%A8%BF%E5%AE%BD%E5%BA%A6%E9%97%AE%E9%A2%98" class="hash-link" aria-label="设计稿宽度问题的直接链接" title="设计稿宽度问题的直接链接">​</a></h2>
 <ul>
 <li>PC端：1920px</li>
 <li>移动端：750px</li>
 <li>对于需要全屏的版块，如首页顶部的banner，设计稿需按照固定的宽高设计。如PC端：1920 * 1080。因为<strong>背景图片会拉伸以适应全屏</strong>，设计时需考虑图片元素的位置。</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="切图问题">切图问题<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%88%87%E5%9B%BE%E9%97%AE%E9%A2%98" class="hash-link" aria-label="切图问题的直接链接" title="切图问题的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="切图问题">切图问题<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%88%87%E5%9B%BE%E9%97%AE%E9%A2%98" class="hash-link" aria-label="切图问题的直接链接" title="切图问题的直接链接">​</a></h2>
 <ul>
 <li>点击设计稿上需要切图的元素，确保元素可以选中、切图</li>
 </ul>
@@ -433,34 +433,34 @@
 <li>纹理背景：设计中使用了细腻的纹理或复杂图案，CSS 难以实现</li>
 <li>透明背景：需要背景图片具有部分透明效果，且不易用 CSS 或 SVG 模拟</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="元素选中问题">元素选中问题<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%85%83%E7%B4%A0%E9%80%89%E4%B8%AD%E9%97%AE%E9%A2%98" class="hash-link" aria-label="元素选中问题的直接链接" title="元素选中问题的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="元素选中问题">元素选中问题<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%85%83%E7%B4%A0%E9%80%89%E4%B8%AD%E9%97%AE%E9%A2%98" class="hash-link" aria-label="元素选中问题的直接链接" title="元素选中问题的直接链接">​</a></h2>
 <ul>
 <li>确保每个层级的元素都可选中</li>
 <li>确保选中的元素的标注信息正确，包括尺寸、间距、颜色值、字体属性等。</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="字体问题">字体问题<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%AD%97%E4%BD%93%E9%97%AE%E9%A2%98" class="hash-link" aria-label="字体问题的直接链接" title="字体问题的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="字体问题">字体问题<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%AD%97%E4%BD%93%E9%97%AE%E9%A2%98" class="hash-link" aria-label="字体问题的直接链接" title="字体问题的直接链接">​</a></h2>
 <ul>
 <li>检查是否使用了免费可商用字体范围之外的字体</li>
 <li>如果字体库不存在设计稿中用到的字体，需要提供对应的字体文件</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="颜色色系问题">颜色/色系问题<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E9%A2%9C%E8%89%B2%E8%89%B2%E7%B3%BB%E9%97%AE%E9%A2%98" class="hash-link" aria-label="颜色/色系问题的直接链接" title="颜色/色系问题的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="颜色色系问题">颜色/色系问题<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E9%A2%9C%E8%89%B2%E8%89%B2%E7%B3%BB%E9%97%AE%E9%A2%98" class="hash-link" aria-label="颜色/色系问题的直接链接" title="颜色/色系问题的直接链接">​</a></h2>
 <ul>
 <li>颜色规范：确认设计稿中的颜色是否来源于设计系统或品牌规范，避免临时添加的颜色</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="交互问题">交互问题<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E4%BA%A4%E4%BA%92%E9%97%AE%E9%A2%98" class="hash-link" aria-label="交互问题的直接链接" title="交互问题的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="交互问题">交互问题<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E4%BA%A4%E4%BA%92%E9%97%AE%E9%A2%98" class="hash-link" aria-label="交互问题的直接链接" title="交互问题的直接链接">​</a></h2>
 <p><strong>如设计稿中没标明，默认无交互</strong></p>
 <ul>
 <li>确保所有交互式组件（如按钮、输入框、复选框）在设计稿中展示了不同状态（默认、悬停、激活、禁用）</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="多语言导致的排版问题">多语言导致的排版问题<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AF%BC%E8%87%B4%E7%9A%84%E6%8E%92%E7%89%88%E9%97%AE%E9%A2%98" class="hash-link" aria-label="多语言导致的排版问题的直接链接" title="多语言导致的排版问题的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="多语言导致的排版问题">多语言导致的排版问题<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AF%BC%E8%87%B4%E7%9A%84%E6%8E%92%E7%89%88%E9%97%AE%E9%A2%98" class="hash-link" aria-label="多语言导致的排版问题的直接链接" title="多语言导致的排版问题的直接链接">​</a></h2>
 <ul>
 <li>需要考虑切换语言后不同长度的文本对于排版、布局的影响</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="模块复用">模块复用<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E6%A8%A1%E5%9D%97%E5%A4%8D%E7%94%A8" class="hash-link" aria-label="模块复用的直接链接" title="模块复用的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="模块复用">模块复用<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E6%A8%A1%E5%9D%97%E5%A4%8D%E7%94%A8" class="hash-link" aria-label="模块复用的直接链接" title="模块复用的直接链接">​</a></h2>
 <ul>
 <li>尽量使用此前已在设计稿中用过的模块（如按钮、输入框、复选框）</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="写在最后">写在最后<a href="https://fanghaoming.top/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E" class="hash-link" aria-label="写在最后的直接链接" title="写在最后的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="写在最后">写在最后<a href="https://fanghaoming.github.io/blog/%E5%A6%82%E4%BD%95%E7%AB%99%E5%9C%A8%E5%89%8D%E7%AB%AF%E8%A7%92%E5%BA%A6%E6%A3%80%E6%9F%A5%E8%AE%BE%E8%AE%A1%E7%A8%BF#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E" class="hash-link" aria-label="写在最后的直接链接" title="写在最后的直接链接">​</a></h2>
 <ul>
 <li>设计师应导出一份设计稿中的切图，以初步检查设计稿的切图问题</li>
 <li>需求方应根据其需求检查设计稿中的交互样式</li>
@@ -468,9 +468,9 @@
         </item>
         <item>
             <title><![CDATA[工具包]]></title>
-            <link>https://fanghaoming.top/blog/工具包</link>
-            <guid>https://fanghaoming.top/blog/工具包</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/工具包</link>
+            <guid>https://fanghaoming.github.io/blog/工具包</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[- 压缩svg]]></description>
             <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/svg/svgo" target="_blank" rel="noopener noreferrer">压缩svg</a></li>
@@ -478,11 +478,11 @@
         </item>
         <item>
             <title><![CDATA[微前端]]></title>
-            <link>https://fanghaoming.top/blog/微前端</link>
-            <guid>https://fanghaoming.top/blog/微前端</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/微前端</link>
+            <guid>https://fanghaoming.github.io/blog/微前端</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[monorepo 工具选择]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="monorepo-工具选择">monorepo 工具选择<a href="https://fanghaoming.top/blog/%E5%BE%AE%E5%89%8D%E7%AB%AF#monorepo-%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9" class="hash-link" aria-label="monorepo 工具选择的直接链接" title="monorepo 工具选择的直接链接">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="monorepo-工具选择">monorepo 工具选择<a href="https://fanghaoming.github.io/blog/%E5%BE%AE%E5%89%8D%E7%AB%AF#monorepo-%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9" class="hash-link" aria-label="monorepo 工具选择的直接链接" title="monorepo 工具选择的直接链接">​</a></h2>
 <ul>
 <li>
 <p>Nx</p>
@@ -516,9 +516,9 @@
         </item>
         <item>
             <title><![CDATA[灵感]]></title>
-            <link>https://fanghaoming.top/blog/灵感</link>
-            <guid>https://fanghaoming.top/blog/灵感</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/灵感</link>
+            <guid>https://fanghaoming.github.io/blog/灵感</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[- 小程序题库创建器。在学习使用tailwind.css的时候想到——这么多css缩写，要是有个小程序让我闲暇时刷一下就好了。]]></description>
             <content:encoded><![CDATA[<ul>
 <li>
@@ -536,24 +536,24 @@
         </item>
         <item>
             <title><![CDATA[私有化部署CMS+服务端渲染实践]]></title>
-            <link>https://fanghaoming.top/blog/私有化部署CMS+服务端渲染实践</link>
-            <guid>https://fanghaoming.top/blog/私有化部署CMS+服务端渲染实践</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/私有化部署CMS+服务端渲染实践</link>
+            <guid>https://fanghaoming.github.io/blog/私有化部署CMS+服务端渲染实践</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[tech stack]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tech-stack">tech stack<a href="https://fanghaoming.top/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#tech-stack" class="hash-link" aria-label="tech stack的直接链接" title="tech stack的直接链接">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tech-stack">tech stack<a href="https://fanghaoming.github.io/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#tech-stack" class="hash-link" aria-label="tech stack的直接链接" title="tech stack的直接链接">​</a></h3>
 <p>gatsby + strapi + apolloGraphql + minio</p>
 <ul>
 <li>静态页面框架：<a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer">gatsby</a></li>
 <li>对象存储：<a href="https://min.io/" target="_blank" rel="noopener noreferrer">minio</a></li>
 <li>CMS：<a href="https://strapi.io/" target="_blank" rel="noopener noreferrer">strapi</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="some-points">some points<a href="https://fanghaoming.top/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#some-points" class="hash-link" aria-label="some points的直接链接" title="some points的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="some-points">some points<a href="https://fanghaoming.github.io/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#some-points" class="hash-link" aria-label="some points的直接链接" title="some points的直接链接">​</a></h3>
 <ul>
 <li>gatsby 的 createSchemaCustomization
 Gatsby 能够从数据中自动推断出 GraphQL Schema（数据的形状）。createSchemaCustomization可以向查询层(query layer)添加自定义功能（额外的数据形状）。</li>
 <li></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="todo">TODO<a href="https://fanghaoming.top/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#todo" class="hash-link" aria-label="TODO的直接链接" title="TODO的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="todo">TODO<a href="https://fanghaoming.github.io/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#todo" class="hash-link" aria-label="TODO的直接链接" title="TODO的直接链接">​</a></h3>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item">
 <p><input type="checkbox" disabled=""> <!-- -->strapi 功能</p>
@@ -583,9 +583,9 @@ Gatsby 能够从数据中自动推断出 GraphQL Schema（数据的形状）。c
         </item>
         <item>
             <title><![CDATA[记一次nginx转发代理https报502]]></title>
-            <link>https://fanghaoming.top/blog/记一次nginx转发代理https报502</link>
-            <guid>https://fanghaoming.top/blog/记一次nginx转发代理https报502</guid>
-            <pubDate>Fri, 23 May 2025 07:26:12 GMT</pubDate>
+            <link>https://fanghaoming.github.io/blog/记一次nginx转发代理https报502</link>
+            <guid>https://fanghaoming.github.io/blog/记一次nginx转发代理https报502</guid>
+            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
             <description><![CDATA[web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。]]></description>
             <content:encoded><![CDATA[<p>web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。</p>
 <p>当多个网站托管在一台服务器上并共享一个IP地址，并且每个网站都有自己的SSL证书，在客户端设备尝试安全地连接到其中一个网站时，服务器可能不知道显示哪个SSL证书。这是因为SSL/TLS握手发生在客户端设备通过HTTP指示连接到某个网站之前。</p>
