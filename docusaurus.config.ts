@@ -6,7 +6,7 @@ const config: Config = {
   title: "Fanghaoming's Code Blog",
   tagline: 'A place for coding blog and docs',
   favicon: 'img/favicon.png',
-  url: 'https://fanghaoming.top',
+  url: 'https://fanghaoming.github.io',
   baseUrl: '/',
   organizationName: 'Fanghaoming',
   projectName: 'code-blog',
