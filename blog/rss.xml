@@ -4,7 +4,7 @@
         <title>Fanghaoming's Code Blog Blog</title>
         <link>https://fanghaoming.github.io/blog</link>
         <description>Fanghaoming's Code Blog Blog</description>
-        <lastBuildDate>Fri, 23 May 2025 07:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 06:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[index]]></title>
             <link>https://fanghaoming.github.io/blog/index</link>
             <guid>https://fanghaoming.github.io/blog/index</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[have a good good study]]></description>
             <content:encoded><![CDATA[<p>have a good good study</p>]]></content:encoded>
         </item>
@@ -20,7 +20,7 @@
             <title><![CDATA[TODO]]></title>
             <link>https://fanghaoming.github.io/blog/todo</link>
             <guid>https://fanghaoming.github.io/blog/todo</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[roadmap]]></description>
             <content:encoded><![CDATA[<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadmap</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h2>
@@ -43,10 +43,34 @@
 </ul>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Vibe Coding 流程]]></title>
+            <link>https://fanghaoming.github.io/blog/vide-coding</link>
+            <guid>https://fanghaoming.github.io/blog/vide-coding</guid>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
+            <description><![CDATA[- 设计]]></description>
+            <content:encoded><![CDATA[<ul>
+<li>设计</li>
+</ul>
+<p>使用 <a href="https://www.pencil.dev/" target="_blank" rel="noopener noreferrer">pencil.dev</a>，让 AI 帮你生成设计稿。可以在Cursor里装个Pencil插件</p>
+<ul>
+<li>开发</li>
+</ul>
+<p>使用<a href="https://github.com/FangHaoming/agent-skills/tree/main/coding/sdd" target="_blank" rel="noopener noreferrer">规范驱动开发 skill</a>，也就是 SDD（Specification-Driven Development）。</p>
+<p>先和 AI 确认要实现的功能，再让 AI 根据需求完成代码。<br>
+<!-- -->例如，可以直接在对话框中输入</p>
+<p><code>/sdd-riper-one 帮我做一个任务管理工具</code></p>
+<ul>
+<li>部署</li>
+</ul>
+<p>可以参考 <a href="https://vercel.com/docs/agent-resources/skills?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Vercel Skills 文档</a> 将项目部署到 Vercel。</p>
+<p>例如，可以直接在对话框中输入：</p>
+<p><code>/deploy-to-vercel 把当前项目部署到 vercel</code></p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[术]]></title>
             <link>https://fanghaoming.github.io/blog/【术】</link>
             <guid>https://fanghaoming.github.io/blog/【术】</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。</p>
@@ -64,7 +88,7 @@
             <title><![CDATA[道]]></title>
             <link>https://fanghaoming.github.io/blog/【道】</link>
             <guid>https://fanghaoming.github.io/blog/【道】</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[道，侧重于根本性、指导性原则，代表事物的本源和规律。]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>道，侧重于根本性、指导性原则，代表事物的本源和规律。</p>
@@ -264,7 +288,7 @@
             <title><![CDATA[个人简历-前端开发工程师]]></title>
             <link>https://fanghaoming.github.io/blog/个人简历-前端开发工程师</link>
             <guid>https://fanghaoming.github.io/blog/个人简历-前端开发工程师</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[个人介绍]]></description>
             <content:encoded><![CDATA[<p>个人介绍</p>
 <p>教育经历</p>
@@ -276,7 +300,7 @@
             <title><![CDATA[vscode-note-manager]]></title>
             <link>https://fanghaoming.github.io/blog/做一个vscode笔记插件</link>
             <guid>https://fanghaoming.github.io/blog/做一个vscode笔记插件</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[give me a demo about developing a vscode extension include follow function:]]></description>
             <content:encoded><![CDATA[<p>give me a demo about developing a vscode extension include follow function:</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="function-points">Function points<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%B8%80%E4%B8%AAvscode%E7%AC%94%E8%AE%B0%E6%8F%92%E4%BB%B6#function-points" class="hash-link" aria-label="Function points的直接链接" title="Function points的直接链接">​</a></h2>
@@ -310,7 +334,7 @@
             <title><![CDATA[前端学习网站]]></title>
             <link>https://fanghaoming.github.io/blog/前端学习网站</link>
             <guid>https://fanghaoming.github.io/blog/前端学习网站</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[探索]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索">探索<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E6%8E%A2%E7%B4%A2" class="hash-link" aria-label="探索的直接链接" title="探索的直接链接">​</a></h3>
 <ul>
@@ -347,7 +371,7 @@
             <title><![CDATA[前端杂记]]></title>
             <link>https://fanghaoming.github.io/blog/前端杂记</link>
             <guid>https://fanghaoming.github.io/blog/前端杂记</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[调试]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="调试">调试<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E8%B0%83%E8%AF%95" class="hash-link" aria-label="调试的直接链接" title="调试的直接链接">​</a></h3>
 <ul>
@@ -409,7 +433,7 @@
             <title><![CDATA[如何站在前端角度检查设计稿]]></title>
             <link>https://fanghaoming.github.io/blog/如何站在前端角度检查设计稿</link>
             <guid>https://fanghaoming.github.io/blog/如何站在前端角度检查设计稿</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[在需求开发过程中，设计稿的质量直接影响到开发效率和最终产品的效果。如果前端开发人员在拿到设计稿时未及时发现问题，可能会导致开发中途的返工和延误。]]></description>
             <content:encoded><![CDATA[<p>在需求开发过程中，设计稿的质量直接影响到开发效率和最终产品的效果。如果前端开发人员在拿到设计稿时未及时发现问题，可能会导致开发中途的<strong>返工</strong>和<strong>延误</strong>。</p>
 <p>本文将从前端角度阐述如何<strong>全面</strong>、<strong>高效</strong>地检查设计稿，<strong>减少</strong>需求开发过程中因设计问题造成的<strong>反复沟通</strong>和<strong>调整</strong>。</p>
@@ -470,7 +494,7 @@
             <title><![CDATA[工具包]]></title>
             <link>https://fanghaoming.github.io/blog/工具包</link>
             <guid>https://fanghaoming.github.io/blog/工具包</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[- 压缩svg]]></description>
             <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/svg/svgo" target="_blank" rel="noopener noreferrer">压缩svg</a></li>
@@ -480,7 +504,7 @@
             <title><![CDATA[微前端]]></title>
             <link>https://fanghaoming.github.io/blog/微前端</link>
             <guid>https://fanghaoming.github.io/blog/微前端</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[monorepo 工具选择]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="monorepo-工具选择">monorepo 工具选择<a href="https://fanghaoming.github.io/blog/%E5%BE%AE%E5%89%8D%E7%AB%AF#monorepo-%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9" class="hash-link" aria-label="monorepo 工具选择的直接链接" title="monorepo 工具选择的直接链接">​</a></h2>
 <ul>
@@ -518,7 +542,7 @@
             <title><![CDATA[灵感]]></title>
             <link>https://fanghaoming.github.io/blog/灵感</link>
             <guid>https://fanghaoming.github.io/blog/灵感</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[- 小程序题库创建器。在学习使用tailwind.css的时候想到——这么多css缩写，要是有个小程序让我闲暇时刷一下就好了。]]></description>
             <content:encoded><![CDATA[<ul>
 <li>
@@ -538,7 +562,7 @@
             <title><![CDATA[私有化部署CMS+服务端渲染实践]]></title>
             <link>https://fanghaoming.github.io/blog/私有化部署CMS+服务端渲染实践</link>
             <guid>https://fanghaoming.github.io/blog/私有化部署CMS+服务端渲染实践</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[tech stack]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tech-stack">tech stack<a href="https://fanghaoming.github.io/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#tech-stack" class="hash-link" aria-label="tech stack的直接链接" title="tech stack的直接链接">​</a></h3>
 <p>gatsby + strapi + apolloGraphql + minio</p>
@@ -585,7 +609,7 @@ Gatsby 能够从数据中自动推断出 GraphQL Schema（数据的形状）。c
             <title><![CDATA[记一次nginx转发代理https报502]]></title>
             <link>https://fanghaoming.github.io/blog/记一次nginx转发代理https报502</link>
             <guid>https://fanghaoming.github.io/blog/记一次nginx转发代理https报502</guid>
-            <pubDate>Fri, 23 May 2025 07:36:41 GMT</pubDate>
+            <pubDate>Mon, 27 Apr 2026 06:54:56 GMT</pubDate>
             <description><![CDATA[web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。]]></description>
             <content:encoded><![CDATA[<p>web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。</p>
 <p>当多个网站托管在一台服务器上并共享一个IP地址，并且每个网站都有自己的SSL证书，在客户端设备尝试安全地连接到其中一个网站时，服务器可能不知道显示哪个SSL证书。这是因为SSL/TLS握手发生在客户端设备通过HTTP指示连接到某个网站之前。</p>
