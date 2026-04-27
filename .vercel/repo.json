@@ -1,0 +1,11 @@
+{
+  "remoteName": "origin",
+  "projects": [
+    {
+      "id": "prj_bDmh5AbRJrzsSwP0P4QMdE3CMlIU",
+      "name": "code-blog",
+      "directory": ".",
+      "orgId": "team_tfm5toT6ue5Ixn3HXwVqXkT8"
+    }
+  ]
+}
