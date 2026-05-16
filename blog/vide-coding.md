@@ -6,7 +6,7 @@
 
 - 开发
 
-使用[规范驱动开发 skill](https://github.com/FangHaoming/agent-skills/tree/main/coding/sdd)，也就是 SDD（Specification-Driven Development）。
+使用[规范驱动开发 skill](https://github.com/FangHaoming/agent-skills/tree/main/.cursor/skills/sdd)，也就是 SDD（Specification-Driven Development）。
 
 先和 AI 确认要实现的功能，再让 AI 根据需求完成代码。  
 例如，可以直接在对话框中输入  
