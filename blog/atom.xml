@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fanghaoming.github.io/blog</id>
     <title>Fanghaoming's Code Blog Blog</title>
-    <updated>2026-05-16T01:08:30.000Z</updated>
+    <updated>2026-06-30T02:36:47.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fanghaoming.github.io/blog"/>
     <subtitle>Fanghaoming's Code Blog Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[index]]></title>
         <id>https://fanghaoming.github.io/blog/index</id>
         <link href="https://fanghaoming.github.io/blog/index"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[have a good good study]]></summary>
         <content type="html"><![CDATA[<p>have a good good study</p>]]></content>
     </entry>
@@ -19,7 +19,7 @@
         <title type="html"><![CDATA[TODO]]></title>
         <id>https://fanghaoming.github.io/blog/todo</id>
         <link href="https://fanghaoming.github.io/blog/todo"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[roadmap]]></summary>
         <content type="html"><![CDATA[<p><a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">roadmap</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-make-a-plan">🍃 Make a plan<a href="https://fanghaoming.github.io/blog/todo#-make-a-plan" class="hash-link" aria-label="🍃 Make a plan的直接链接" title="🍃 Make a plan的直接链接">​</a></h2>
@@ -45,7 +45,7 @@
         <title type="html"><![CDATA[Vibe Coding 流程]]></title>
         <id>https://fanghaoming.github.io/blog/vide-coding</id>
         <link href="https://fanghaoming.github.io/blog/vide-coding"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[- 设计]]></summary>
         <content type="html"><![CDATA[<ul>
 <li>设计</li>
@@ -69,7 +69,7 @@
         <title type="html"><![CDATA[术]]></title>
         <id>https://fanghaoming.github.io/blog/【术】</id>
         <link href="https://fanghaoming.github.io/blog/【术】"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>“术” 通常指技巧、方法、技能或策略，是人们为实现特定目标而采用的手段。它注重实践性，强调操作层面的能力。</p>
@@ -87,7 +87,7 @@
         <title type="html"><![CDATA[道]]></title>
         <id>https://fanghaoming.github.io/blog/【道】</id>
         <link href="https://fanghaoming.github.io/blog/【道】"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[道，侧重于根本性、指导性原则，代表事物的本源和规律。]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>道，侧重于根本性、指导性原则，代表事物的本源和规律。</p>
@@ -287,7 +287,7 @@
         <title type="html"><![CDATA[个人简历-前端开发工程师]]></title>
         <id>https://fanghaoming.github.io/blog/个人简历-前端开发工程师</id>
         <link href="https://fanghaoming.github.io/blog/个人简历-前端开发工程师"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[个人介绍]]></summary>
         <content type="html"><![CDATA[<p>个人介绍</p>
 <p>教育经历</p>
@@ -299,7 +299,7 @@
         <title type="html"><![CDATA[vscode-note-manager]]></title>
         <id>https://fanghaoming.github.io/blog/做一个vscode笔记插件</id>
         <link href="https://fanghaoming.github.io/blog/做一个vscode笔记插件"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[give me a demo about developing a vscode extension include follow function:]]></summary>
         <content type="html"><![CDATA[<p>give me a demo about developing a vscode extension include follow function:</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="function-points">Function points<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%B8%80%E4%B8%AAvscode%E7%AC%94%E8%AE%B0%E6%8F%92%E4%BB%B6#function-points" class="hash-link" aria-label="Function points的直接链接" title="Function points的直接链接">​</a></h2>
@@ -330,10 +330,109 @@
 <p><a href="https://code.visualstudio.com/api/references/icons-in-labels" target="_blank" rel="noopener noreferrer">vscode icon</a></p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[做事工程，本质上很像软件工程]]></title>
+        <id>https://fanghaoming.github.io/blog/做事工程本质上很像软件工程</id>
+        <link href="https://fanghaoming.github.io/blog/做事工程本质上很像软件工程"/>
+        <updated>2026-06-30T02:36:47.000Z</updated>
+        <summary type="html"><![CDATA[原文：《如何把事做成》]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>原文：<a href="https://mp.weixin.qq.com/s/oDcCerQ-0v918fqEn_JpkA" target="_blank" rel="noopener noreferrer">《如何把事做成》</a></p>
+</blockquote>
+<p>它不是在讲“写代码”，而是在讲如何把不确定的事情变成可设计、可协作、可交付、可复用的系统。</p>
+<p>这篇《如何把事做成》的方法论核心是：</p>
+<p>不要把任务当成“别人交代的活”，而要把它设计成一个可推进、可协作、可反馈、可交付的项目。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一先定义什么叫靠谱">一、先定义什么叫靠谱<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#%E4%B8%80%E5%85%88%E5%AE%9A%E4%B9%89%E4%BB%80%E4%B9%88%E5%8F%AB%E9%9D%A0%E8%B0%B1" class="hash-link" aria-label="一、先定义什么叫靠谱的直接链接" title="一、先定义什么叫靠谱的直接链接">​</a></h2>
+<p>靠谱不是“什么都答应”，也不是“憋到做完再说”。</p>
+<p>靠谱是：</p>
+<ul>
+<li>量力而行；</li>
+<li>有进展及时反馈；</li>
+<li>有困难提前暴露；</li>
+<li>通过持续沟通校准预期。</li>
+</ul>
+<p>关键原则是：</p>
+<blockquote>
+<p>凡事有交代，件件有着落，事事有回音。</p>
+</blockquote>
+<p>很多人以为“靠谱”是说到做到，所以会习惯性接受，不拒绝，不反馈，等自己做完再说。</p>
+<p>但在真实协作里，沉默不是靠谱。沉默会让事情失焦，也会让对方无法判断风险。</p>
+<p>每一次反馈和沟通，都是一次对焦。它可以保证事情没有变形，仍然符合最初的预期。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二把任务变成你的事">二、把任务变成“你的事”<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#%E4%BA%8C%E6%8A%8A%E4%BB%BB%E5%8A%A1%E5%8F%98%E6%88%90%E4%BD%A0%E7%9A%84%E4%BA%8B" class="hash-link" aria-label="二、把任务变成“你的事”的直接链接" title="二、把任务变成“你的事”的直接链接">​</a></h2>
+<p>一件事是不是你的，不取决于是不是老板派给你的，而取决于：</p>
+<blockquote>
+<p>这件事是不是由你设计的。</p>
+</blockquote>
+<p>只要你负责设计目标、路径、节奏、协作和结果，这件事就真正变成了你的事。</p>
+<p>反过来，如果你只是被动接活、埋头执行、等别人追问，那这件事虽然挂在你名下，但实际上并没有被你掌控。</p>
+<p>真正的转变，是从“我被安排做一件事”，变成“我设计了一套推动结果发生的系统”。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="三设计一件事先回答四个问题">三、设计一件事，先回答四个问题<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#%E4%B8%89%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%BB%B6%E4%BA%8B%E5%85%88%E5%9B%9E%E7%AD%94%E5%9B%9B%E4%B8%AA%E9%97%AE%E9%A2%98" class="hash-link" aria-label="三、设计一件事，先回答四个问题的直接链接" title="三、设计一件事，先回答四个问题的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-目的是什么">1. 目的是什么？<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#1-%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88" class="hash-link" aria-label="1. 目的是什么？的直接链接" title="1. 目的是什么？的直接链接">​</a></h3>
+<p>目的分两层。</p>
+<p>第一层是表层目的：这件事要解决什么业务问题。</p>
+<p>第二层是成长目的：这件事能锻炼你什么能力，体现什么价值。</p>
+<p>但也不要过度揣测，不要把一件小事复杂化。目的分析够用即可，重点是让行动有方向。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-这件事分几步做">2. 这件事分几步做？<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#2-%E8%BF%99%E4%BB%B6%E4%BA%8B%E5%88%86%E5%87%A0%E6%AD%A5%E5%81%9A" class="hash-link" aria-label="2. 这件事分几步做？的直接链接" title="2. 这件事分几步做？的直接链接">​</a></h3>
+<p>不要一上来就盯着最难的部分，而是先把它拆成步骤。</p>
+<p>可以按这个顺序拆：</p>
+<ul>
+<li>确定范围；</li>
+<li>明确关键内容；</li>
+<li>组织协作者；</li>
+<li>提供工具和模板；</li>
+<li>检查进度；</li>
+<li>展示结果。</li>
+</ul>
+<p>本质上，这是把模糊任务拆成可执行流程。</p>
+<p>很多事情做不动，不是因为问题真的无解，而是因为它还停留在一个模糊的大块里。拆开以后，行动入口才会出现。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-如何把握进度">3. 如何把握进度？<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#3-%E5%A6%82%E4%BD%95%E6%8A%8A%E6%8F%A1%E8%BF%9B%E5%BA%A6" class="hash-link" aria-label="3. 如何把握进度？的直接链接" title="3. 如何把握进度？的直接链接">​</a></h3>
+<p>多人协作不能靠自觉，要靠机制。</p>
+<p>比如：</p>
+<ul>
+<li>进度表；</li>
+<li>检查点；</li>
+<li>负责人；</li>
+<li>困难暴露；</li>
+<li>团队例会；</li>
+<li>群提醒；</li>
+<li>日报或周报。</li>
+</ul>
+<p>进度管理的重点不是催人，而是暴露问题、校准预期、推动事情持续向前。</p>
+<p>一个好的进度表，不只是记录状态，它本身也是行动指南。每一个检查点都应该对应一个明确的完成标准。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-最终产出什么">4. 最终产出什么？<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#4-%E6%9C%80%E7%BB%88%E4%BA%A7%E5%87%BA%E4%BB%80%E4%B9%88" class="hash-link" aria-label="4. 最终产出什么？的直接链接" title="4. 最终产出什么？的直接链接">​</a></h3>
+<p>结果也分两层。</p>
+<p>第一层是直接产出，比如文档、工具、交付物。</p>
+<p>第二层是沉淀产出，比如模板、流程、自动化工具、方法论。</p>
+<p>但沉淀要服务当下问题，不要为了复用而过度设计。</p>
+<p>能解决当下问题的工具，就是好工具。能让下一次更快一点、更稳一点的经验，就是有效沉淀。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="四最后要展示结果">四、最后要展示结果<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#%E5%9B%9B%E6%9C%80%E5%90%8E%E8%A6%81%E5%B1%95%E7%A4%BA%E7%BB%93%E6%9E%9C" class="hash-link" aria-label="四、最后要展示结果的直接链接" title="四、最后要展示结果的直接链接">​</a></h2>
+<p>做完不是结束。</p>
+<p>要把结果展示出来，感谢参与者，让事情有闭环，也让组织看到你的设计和推动能力。</p>
+<p>所以，成事的方法可以总结为：</p>
+<blockquote>
+<p>明确目的，拆解步骤，组织资源，提供工具，持续反馈，机制化推进，结果展示，方法沉淀。</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="五为什么说这很像软件工程">五、为什么说这很像软件工程？<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#%E4%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E8%BF%99%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B" class="hash-link" aria-label="五、为什么说这很像软件工程？的直接链接" title="五、为什么说这很像软件工程？的直接链接">​</a></h2>
+<p>因为软件工程也不是简单地“把代码写出来”。</p>
+<p>编程是在解决具体问题。</p>
+<p>软件工程是在解决：</p>
+<blockquote>
+<p>如何稳定、持续、多人协作地把问题解决掉。</p>
+</blockquote>
+<p>对应关系大概是这样：</p>
+<table><thead><tr><th>做事方法</th><th>软件工程实践</th></tr></thead><tbody><tr><td>明确目的</td><td>需求分析</td></tr><tr><td>拆分步骤</td><td>系统设计、任务拆解、里程碑规划</td></tr><tr><td>组织群众</td><td>团队协作、分工、代码评审、跨团队沟通</td></tr><tr><td>提供工具</td><td>脚手架、模板、自动化脚本、CI/CD、文档规范</td></tr><tr><td>Check 进度</td><td>项目管理、看板、站会、风险跟踪</td></tr><tr><td>展示结果</td><td>发布、Demo、复盘、汇报</td></tr><tr><td>方法沉淀</td><td>组件库、最佳实践、工程规范、平台化能力</td></tr></tbody></table>
+<p>所以，这篇文章不是在讲“怎么干活”。</p>
+<p>它讲的是更底层的能力：</p>
+<blockquote>
+<p>如何把一件不确定的事情，设计成一个稳定产出结果的系统。</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="六一句话总结">六、一句话总结<a href="https://fanghaoming.github.io/blog/%E5%81%9A%E4%BA%8B%E5%B7%A5%E7%A8%8B%E6%9C%AC%E8%B4%A8%E4%B8%8A%E5%BE%88%E5%83%8F%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B#%E5%85%AD%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%80%BB%E7%BB%93" class="hash-link" aria-label="六、一句话总结的直接链接" title="六、一句话总结的直接链接">​</a></h2>
+<p>软件工程不是“把代码写出来”，而是把不确定性装进流程、工具、协作和反馈里，最后稳定地交付结果。</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前端学习网站]]></title>
         <id>https://fanghaoming.github.io/blog/前端学习网站</id>
         <link href="https://fanghaoming.github.io/blog/前端学习网站"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[探索]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="探索">探索<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99#%E6%8E%A2%E7%B4%A2" class="hash-link" aria-label="探索的直接链接" title="探索的直接链接">​</a></h3>
 <ul>
@@ -370,7 +469,7 @@
         <title type="html"><![CDATA[前端杂记]]></title>
         <id>https://fanghaoming.github.io/blog/前端杂记</id>
         <link href="https://fanghaoming.github.io/blog/前端杂记"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[调试]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="调试">调试<a href="https://fanghaoming.github.io/blog/%E5%89%8D%E7%AB%AF%E6%9D%82%E8%AE%B0#%E8%B0%83%E8%AF%95" class="hash-link" aria-label="调试的直接链接" title="调试的直接链接">​</a></h3>
 <ul>
@@ -432,7 +531,7 @@
         <title type="html"><![CDATA[如何站在前端角度检查设计稿]]></title>
         <id>https://fanghaoming.github.io/blog/如何站在前端角度检查设计稿</id>
         <link href="https://fanghaoming.github.io/blog/如何站在前端角度检查设计稿"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[在需求开发过程中，设计稿的质量直接影响到开发效率和最终产品的效果。如果前端开发人员在拿到设计稿时未及时发现问题，可能会导致开发中途的返工和延误。]]></summary>
         <content type="html"><![CDATA[<p>在需求开发过程中，设计稿的质量直接影响到开发效率和最终产品的效果。如果前端开发人员在拿到设计稿时未及时发现问题，可能会导致开发中途的<strong>返工</strong>和<strong>延误</strong>。</p>
 <p>本文将从前端角度阐述如何<strong>全面</strong>、<strong>高效</strong>地检查设计稿，<strong>减少</strong>需求开发过程中因设计问题造成的<strong>反复沟通</strong>和<strong>调整</strong>。</p>
@@ -493,7 +592,7 @@
         <title type="html"><![CDATA[工具包]]></title>
         <id>https://fanghaoming.github.io/blog/工具包</id>
         <link href="https://fanghaoming.github.io/blog/工具包"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[- 压缩svg]]></summary>
         <content type="html"><![CDATA[<ul>
 <li><a href="https://github.com/svg/svgo" target="_blank" rel="noopener noreferrer">压缩svg</a></li>
@@ -503,7 +602,7 @@
         <title type="html"><![CDATA[微前端]]></title>
         <id>https://fanghaoming.github.io/blog/微前端</id>
         <link href="https://fanghaoming.github.io/blog/微前端"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[monorepo 工具选择]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="monorepo-工具选择">monorepo 工具选择<a href="https://fanghaoming.github.io/blog/%E5%BE%AE%E5%89%8D%E7%AB%AF#monorepo-%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9" class="hash-link" aria-label="monorepo 工具选择的直接链接" title="monorepo 工具选择的直接链接">​</a></h2>
 <ul>
@@ -541,7 +640,7 @@
         <title type="html"><![CDATA[灵感]]></title>
         <id>https://fanghaoming.github.io/blog/灵感</id>
         <link href="https://fanghaoming.github.io/blog/灵感"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[- 小程序题库创建器。在学习使用tailwind.css的时候想到——这么多css缩写，要是有个小程序让我闲暇时刷一下就好了。]]></summary>
         <content type="html"><![CDATA[<ul>
 <li>
@@ -561,7 +660,7 @@
         <title type="html"><![CDATA[私有化部署CMS+服务端渲染实践]]></title>
         <id>https://fanghaoming.github.io/blog/私有化部署CMS+服务端渲染实践</id>
         <link href="https://fanghaoming.github.io/blog/私有化部署CMS+服务端渲染实践"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[tech stack]]></summary>
         <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tech-stack">tech stack<a href="https://fanghaoming.github.io/blog/%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2CMS+%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E5%AE%9E%E8%B7%B5#tech-stack" class="hash-link" aria-label="tech stack的直接链接" title="tech stack的直接链接">​</a></h3>
 <p>gatsby + strapi + apolloGraphql + minio</p>
@@ -608,7 +707,7 @@ Gatsby 能够从数据中自动推断出 GraphQL Schema（数据的形状）。c
         <title type="html"><![CDATA[记一次nginx转发代理https报502]]></title>
         <id>https://fanghaoming.github.io/blog/记一次nginx转发代理https报502</id>
         <link href="https://fanghaoming.github.io/blog/记一次nginx转发代理https报502"/>
-        <updated>2026-05-16T01:08:30.000Z</updated>
+        <updated>2026-06-30T02:36:47.000Z</updated>
         <summary type="html"><![CDATA[web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。]]></summary>
         <content type="html"><![CDATA[<p>web 服务器可以承载多个域名。这被称为虚拟主机（Virtual Host）。通过配置不同的虚拟主机，同一个服务器可以为多个域名提供服务。每个虚拟主机都使用独立的配置文件，可以设置不同的域名、目录结构、访问权限等。当用户访问某个域名时，web 服务器会根据配置文件的设置将请求发送到对应的虚拟主机上。这样就实现了通过一个服务器为多个域名提供服务的功能。</p>
 <p>当多个网站托管在一台服务器上并共享一个IP地址，并且每个网站都有自己的SSL证书，在客户端设备尝试安全地连接到其中一个网站时，服务器可能不知道显示哪个SSL证书。这是因为SSL/TLS握手发生在客户端设备通过HTTP指示连接到某个网站之前。</p>
