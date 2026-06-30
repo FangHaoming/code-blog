@@ -1,3 +1,7 @@
+---
+date: 2024-12-06
+---
+
 # vscode-note-manager
 
 give me a demo about developing a vscode extension include follow function:
