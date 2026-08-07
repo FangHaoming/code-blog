@@ -1,0 +1,558 @@
+<!doctype html>
+<html lang="zh-Hans" dir="ltr" class="blog-wrapper blog-post-page plugin-blog plugin-id-default" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.0.1">
+<title data-rh="true">前端工程师的问题解决能力维度 | Fanghaoming&#x27;s Code Blog</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://fanghaoming.github.io/blog/前端工程师的问题解决能力维度"><meta data-rh="true" property="og:locale" content="zh_Hans"><meta data-rh="true" name="docusaurus_locale" content="zh-Hans"><meta data-rh="true" name="docusaurus_tag" content="default"><meta data-rh="true" name="docsearch:language" content="zh-Hans"><meta data-rh="true" name="docsearch:docusaurus_tag" content="default"><meta data-rh="true" property="og:title" content="前端工程师的问题解决能力维度 | Fanghaoming&#x27;s Code Blog"><meta data-rh="true" name="description" content="很多工程能力，不是来自某个单一技术栈，而是来自更底层的思维方式。"><meta data-rh="true" property="og:description" content="很多工程能力，不是来自某个单一技术栈，而是来自更底层的思维方式。"><meta data-rh="true" property="og:type" content="article"><meta data-rh="true" property="article:published_time" content="2026-08-07T00:00:00.000Z"><link data-rh="true" rel="icon" href="/img/favicon.png"><link data-rh="true" rel="canonical" href="https://fanghaoming.github.io/blog/前端工程师的问题解决能力维度"><link data-rh="true" rel="alternate" href="https://fanghaoming.github.io/blog/前端工程师的问题解决能力维度" hreflang="zh-Hans"><link data-rh="true" rel="alternate" href="https://fanghaoming.github.io/blog/前端工程师的问题解决能力维度" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Fanghaoming&#39;s Code Blog RSS Feed">
+<link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Fanghaoming&#39;s Code Blog Atom Feed"><link rel="stylesheet" href="/assets/css/styles.e470a6d8.css">
+<script src="/assets/js/runtime~main.fca5f1c5.js" defer="defer"></script>
+<script src="/assets/js/main.985caf75.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return localStorage.getItem("theme")}catch(t){}}();t(null!==e?e:"light")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="跳到主要内容"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">跳到主要内容</a></div><nav aria-label="主导航" class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><button aria-label="切换导航栏" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/favicon.png" alt="Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/favicon.png" alt="Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">首页</b></a><a class="navbar__item navbar__link" href="/docs/algorithm/ dynamic">Docs</a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/blog">Blog</a><a class="navbar__item navbar__link" href="/todo">Todo</a></div><div class="navbar__items navbar__items--right"><a href="https://github.com/FangHaoming/code-blog" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="切换浅色/暗黑模式（当前为浅色模式）" aria-label="切换浅色/暗黑模式（当前为浅色模式）" aria-live="polite"><svg viewBox="0 0 24 24" width="24" height="24" class="lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" class="darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="main-wrapper mainWrapper_z2l0"><div class="container margin-vert--lg"><div class="row"><aside class="col col--3"><nav class="sidebar_re4s thin-scrollbar" aria-label="最近博文导航"><div class="sidebarItemTitle_pO2u margin-bottom--md">Recent posts</div><ul class="sidebarItemList_Yudw clean-list"><li class="sidebarItem__DBe"><a aria-current="page" class="sidebarItemLink_mo7H sidebarItemLinkActive_I1ZP" href="/blog/前端工程师的问题解决能力维度">前端工程师的问题解决能力维度</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/互联网行业35岁危机">互联网行业的 35 岁危机，本质不是年龄</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/做事工程本质上很像软件工程">做事工程，本质上很像软件工程</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/如何获取免费域名并应用到github-page">如何获取免费域名并应用到 GitHub Page</a></li><li class="sidebarItem__DBe"><a class="sidebarItemLink_mo7H" href="/blog/vide-coding">Vibe Coding 流程</a></li></ul></nav></aside><main class="col col--7" itemscope="" itemtype="https://schema.org/Blog"><article itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting"><meta itemprop="description" content="很多工  程能力，不是来自某个单一技术栈，而是来自更底层的思维方式。"><header><h1 class="title_f1Hy" itemprop="headline">前端工程师的问题解决能力维度</h1><div class="container_mt6G margin-vert--md"><time datetime="2026-08-07T00:00:00.000Z" itemprop="datePublished">2026年8月7日</time> · <!-- -->阅读需 22 分钟</div></header><div id="__blog-post-container" class="markdown" itemprop="articleBody"><p>很多工程能力，不是来自某个单一技术栈，而是来自更底层的思维方式。</p>
+<p>比如一个前端工程师能不能解决复杂问题，不能只看他会不会 React、Vue、Next.js，也不能只看他熟不熟某个组件库。</p>
+<p>更关键的是：</p>
+<blockquote>
+<p>他能不能把一个模糊、混乱、不确定的问题，拆成可以分析、可以验证、可以取舍、可以交付的工程问题。</p>
+</blockquote>
+<p>所以，所谓“能力维度”，本质上不是凭空造出来的标签，而是把一些经典思维方法、工程方法论，映射到 Web 前端场景里的结果。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一问题拆解">一、问题拆解<a href="#一问题拆解" class="hash-link" aria-label="一、问题拆解的直接链接" title="一、问题拆解的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>大象装冰箱；</li>
+<li>Divide &amp; Conquer；</li>
+<li>分而治之。</li>
+</ul>
+<p>前端里的很多问题，表面上看是一个大问题，实际上是多个小问题混在一起。</p>
+<p>比如：</p>
+<blockquote>
+<p>页面白屏。</p>
+</blockquote>
+<p>它可能来自：</p>
+<ul>
+<li>路由没有命中；</li>
+<li>JS 资源加载失败；</li>
+<li>接口阻塞；</li>
+<li>hydration mismatch；</li>
+<li>构建产物路径错误；</li>
+<li>浏览器兼容问题；</li>
+<li>权限或登录态异常。</li>
+</ul>
+<p>如果一上来就猜，很容易陷入随机调试。</p>
+<p>问题拆解能力强的人，会先把问题拆成几个层面：</p>
+<ul>
+<li>页面有没 有被请求到；</li>
+<li>HTML 有没有返回；</li>
+<li>JS/CSS 有没有加载；</li>
+<li>JS 有没有执行；</li>
+<li>接口有没有成功；</li>
+<li>状态有没有进入正确分支；</li>
+<li>UI 有没有正常渲染。</li>
+</ul>
+<p>拆解的目的不是让问题变复杂，而是让问题出现入口。</p>
+<p>一个问题只要被拆到足够小，就会从“我不知道哪里坏了”，变成“我正在验证哪一层坏了”。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二结构化分析">二、结构化分析<a href="#二结构化分析" class="hash-link" aria-label="二、结构化分析的直接链接" title="二、结构化分析的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>MECE；</li>
+<li>Issue Tree；</li>
+<li>金字塔原理。</li>
+</ul>
+<p>结构化分析强调两件事：</p>
+<ul>
+<li>不重不漏；</li>
+<li>层次清晰。</li>
+</ul>
+<p>比如排查一个性能问题，不能只盯着某个函数执行慢，也不能只看 Lighthouse 分数。</p>
+<p>可以先把性能问题拆成：</p>
+<table><thead><tr><th>层级</th><th>关注点</th></tr></thead><tbody><tr><td>网络层</td><td>资源体积、请求数量、缓存、CDN</td></tr><tr><td>构建层</td><td>bundle size、code splitting、tree shaking</td></tr><tr><td>渲染层</td><td>layout、paint、composite、长任务</td></tr><tr><td>数据层</td><td>接口耗时、重复请求、并发控制</td></tr><tr><td>交互层</td><td>输入延迟、动画卡顿、滚动性能</td></tr><tr><td>业务层</td><td>是否加载了不必要的数据和组件</td></tr></tbody></table>
+<p>这样排查时就不会东一榔头西一棒子。</p>
+<p>结构化分析的价值在于，它让排查过程从“经验驱动”变成“框架驱动”。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="三假设与验证">三、假设与验证<a href="#三假设与验证" class="hash-link" aria-label="三、假设与验证的直接链接" title="三、假设与验证的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Scientific Method；</li>
+<li>Five Whys；</li>
+<li>实验驱动排障。</li>
+</ul>
+<p>很多人调 bug 的方式是：</p>
+<blockquote>
+<p>我感觉是这里的问题，所以我改一下试试。</p>
+</blockquote>
+<p>这不是完全不行，但风险是容易变成盲猜。</p>
+<p>更好的方式是：</p>
+<ol>
+<li>提出假设；</li>
+<li>设计验证方式；</li>
+<li>收集证据；</li>
+<li>根据结果修正判断。</li>
+</ol>
+<p>比如怀疑接口慢导致首屏慢，就应该看：</p>
+<ul>
+<li>Network 中接口耗时；</li>
+<li>接口开始时间和结束时间；</li>
+<li>首屏渲染是否等待这个接口；</li>
+<li>mock 掉接口以后首屏是否明显变快。</li>
+</ul>
+<p>如果 mock 掉以后仍然慢，说明原假设不成立，问题可能在 bundle、渲染或主线程长任务。</p>
+<p>工程里的“聪明”，很多时候不是猜得准，而是验证得快。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="四抽象与建模">四、抽象与建模<a href="#四抽象与建模" class="hash-link" aria-label="四、抽象与建模的直接链接" title="四、抽象与建模的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Computational Thinking；</li>
+<li>Mental Models；</li>
+<li>状态建模；</li>
+<li>组件建模。</li>
+</ul>
+<p>前端不是简单地把接口数据展示出来。</p>
+<p>很多前端复杂度来自：</p>
+<ul>
+<li>状态；</li>
+<li>交互；</li>
+<li>异步；</li>
+<li>权限；</li>
+<li>缓存；</li>
+<li>组件关系；</li>
+<li>页面生命周期。</li>
+</ul>
+<p>抽象与建模能力强的人，会把混乱的业务规则转成模型。</p>
+<p>比如一个上传组件，不只是一个按钮，而是一个状态机：</p>
+<table><thead><tr><th>状态</th><th>行为</th></tr></thead><tbody><tr><td>idle</td><td>等待选择文件</td></tr><tr><td>validating</td><td>校验文件大小、格式、数量</td></tr><tr><td>uploading</td><td>上传中，展示进度</td></tr><tr><td>success</td><td>上传成功，展示结果</td></tr><tr><td>error</td><td>上传失败，允许重试</td></tr><tr><td>canceled</td><td>用户取消上传</td></tr></tbody></table>
+<p>一旦状态模型清楚，组件代码就不会到处散落 <code>loading</code>、<code>success</code>、<code>error</code>、<code>disabled</code> 之类的布尔值。</p>
+<p>抽象不是为了显得高级，而是为了降低变化成本。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="五权衡与决策">五、权衡与决策<a href="#五权衡与决策" class="hash-link" aria-label="五、权衡与决策的直接链接" title="五、权衡与决策的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Engineering Trade-off；</li>
+<li>Cost-Benefit Analysis；</li>
+<li>Opportunity Cost。</li>
+</ul>
+<p>工程里很少有唯一正确答案。</p>
+<p>很多选择本质上都是取舍：</p>
+<ul>
+<li>要性能，可能要牺牲开发速度；</li>
+<li>要灵活，可能要引入复杂度；</li>
+<li>要强一致，可能要牺牲响应速度；</li>
+<li>要兼容老浏览器，可能要增加构建和测试成本；</li>
+<li>要快速上线，可能要接受一定技术债。</li>
+</ul>
+<p>比如 Canvas、SVG、DOM、CSS、WebGL 都可以做可视化。</p>
+<p>但它们适合的场景不同：</p>
+<table><thead><tr><th>方案</th><th>适合场景</th><th>代价</th></tr></thead><tbody><tr><td>DOM</td><td>普通 UI、可访问性强、交互简单</td><td>大量节点性能差</td></tr><tr><td>SVG</td><td>图表、矢量图、可交互元素</td><td>复杂动画和大量元素会变慢</td></tr><tr><td>Canvas</td><td>大量绘制、游戏、复杂图形</td><td>可访问性和事件命中要自己处理</td></tr><tr><td>WebGL</td><td>3D、大规模图形、GPU 加速</td><td>学习成本和工程复杂度高</td></tr></tbody></table>
+<p>好的工程师不是永远选择最先进的方案，而是能说清楚为什么在当前约束下选这个方案。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="六持续修 正">六、持续修正<a href="#六持续修正" class="hash-link" aria-label="六、持续修正的直接链接" title="六、持续修正的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>OODA；</li>
+<li>PDCA；</li>
+<li>Build-Measure-Learn。</li>
+</ul>
+<p>复杂问题很少一次判断就完全正确。</p>
+<p>持续修正能力指的是：</p>
+<ul>
+<li>先做出判断；</li>
+<li>快速行动；</li>
+<li>观察反馈；</li>
+<li>修正路径。</li>
+</ul>
+<p>比如线上故障排查，不能等到所有信息都完美齐全才开始处理。</p>
+<p>可以先做低风险动作：</p>
+<ul>
+<li>确认影响范围；</li>
+<li>回滚最近发布；</li>
+<li>打开日志和监控；</li>
+<li>降级非核心功能；</li>
+<li>收集用户侧错误信息；</li>
+<li>复盘根因和补充防线。</li>
+</ul>
+<p>持续修正不是摇摆，而是在不确定中保持反馈闭环。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="七系统边界感">七、系统边界感<a href="#七系统边界感" class="hash-link" aria-label="七、系统边界感的直接链接" title="七、系统边界感的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Systems Thinking；</li>
+<li>Context Boundary；</li>
+<li>分层架构。</li>
+</ul>
+<p>前端问题不一定都在前端。</p>
+<p>页面报错，可能是接口 schema 变了。</p>
+<p>样式错乱，可能是组件库版本不一致。</p>
+<p>登录失效，可能是 cookie、域名、网关、SSO、浏览器策略共同作用。</p>
+<p>系统边界感强的人，会先判断问题属于哪一层：</p>
+<ul>
+<li>浏览器；</li>
+<li>页面；</li>
+<li>组件；</li>
+<li>状态管理；</li>
+<li>网络；</li>
+<li>BFF；</li>
+<li>后端服务；</li>
+<li>网关；</li>
+<li>CDN；</li>
+<li>构建部署。</li>
+</ul>
+<p>边界判断错了，就会在错误的地方花大量时间。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="八根因分析">八、根因分析<a href="#八根因分析" class="hash-link" aria-label="八 、根因分析的直接链接" title="八、根因分析的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>RCA；</li>
+<li>Five Whys；</li>
+<li>Fishbone Diagram。</li>
+</ul>
+<p>修 bug 有两种层次：</p>
+<ul>
+<li>修现象；</li>
+<li>修根因。</li>
+</ul>
+<p>比如某个页面偶发重复提交，表面修法是按钮点击后加 <code>disabled</code>。</p>
+<p>但继续追问，可能会发现：</p>
+<ul>
+<li>接口没有幂等设计；</li>
+<li>前端没有请求锁；</li>
+<li>页面跳转后请求仍然继续；</li>
+<li>用户在弱网下重复点击；</li>
+<li>后端没有防重复订单机制。</li>
+</ul>
+<p>真正的根因分析，不是找到一个能解释现象的原因就停止，而是找到能够阻止问题再次发生的原因。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="九第一性原理">九、第一性原理<a href="#九第一性原理" class="hash-link" aria-label="九、第一性原理的直接链接" title="九、第一性原理的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>First Principles Thinking。</li>
+</ul>
+<p>框架会变，底层规律相对稳定。</p>
+<p>前端里的第一性原理包括：</p>
+<ul>
+<li>HTTP；</li>
+<li>URL；</li>
+<li>HTML；</li>
+<li>CSS Cascade；</li>
+<li>DOM；</li>
+<li>JavaScript Event Loop；</li>
+<li>浏览器渲染流水线；</li>
+<li>缓存；</li>
+<li>同源策略；</li>
+<li>可访问性。</li>
+</ul>
+<p>当框架层现象解释不通时，要能回到底层。</p>
+<p>比如 React 组件没有更新，不一定是 React 的问题，可能是：</p>
+<ul>
+<li>引用没有变化；</li>
+<li>状态被原地修改；</li>
+<li>key 使用错误；</li>
+<li>闭包读取了旧值；</li>
+<li>异步回调执行时机和预期不同。</li>
+</ul>
+<p>第一性原理能力强的人，不会被框架表象困住。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十风险控制">十、风险控制<a href="#十风险控制" class="hash-link" aria-label="十、风险控制的直接链接" title="十、风险控制的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Risk Matrix；</li>
+<li>Blast Radius；</li>
+<li>Fail-safe。</li>
+</ul>
+<p>工程改动不能只问“能不能实现”，还要问：</p>
+<ul>
+<li>会影响谁；</li>
+<li>失败后会怎样；</li>
+<li>能不能回滚；</li>
+<li>有没有监控；</li>
+<li>有没有灰度；</li>
+<li>有没有降级；</li>
+<li>有没有数据损坏风险。</li>
+</ul>
+<p>比如改一个公共 Button 组件，看起来只是视觉调整，但可能影响：</p>
+<ul>
+<li>全站表单；</li>
+<li>弹窗操作；</li>
+<li>埋点点击区域；</li>
+<li>自动化测试；</li>
+<li>设计系统一致性；</li>
+<li>无障碍访问。</li>
+</ul>
+<p>风险控制的核心是控制影响半径。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十一约束优化">十一、约束优化<a href="#十一约束优化" class="hash-link" aria-label="十一、约束优化的直接链接" title="十一、约束优化的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Theory of Constraints；</li>
+<li>Constraint Solving。</li>
+</ul>
+<p>真实项目永远有约束：</p>
+<ul>
+<li>时间；</li>
+<li>人力；</li>
+<li>性能；</li>
+<li>兼容性；</li>
+<li>设计还原；</li>
+<li>SEO；</li>
+<li>安全；</li>
+<li>可维护性；</li>
+<li>业务优先级。</li>
+</ul>
+<p>约束优化能力强的人，不是无视约束，而是在约束下找到可交付解。</p>
+<p>比如一个活动页需要明天上线，理想方案是接 CMS、做组件化、做完整埋点、做 A/B 测试。</p>
+<p>但当前约束下，也许更合理的是：</p>
+<ul>
+<li>先静态配置；</li>
+<li>只抽核心组件；</li>
+<li>埋关键事件；</li>
+<li>保留后续接 CMS 的结构；</li>
+<li>上线后补充自动化和复盘。</li>
+</ul>
+<p>工程不是在无限资源下追求完美，而是在有限资源下做正确的取舍。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十二可观测性思维">十二、可观测性思维<a href="#十二可观测性思维" class="hash-link" aria-label="十二、可观测性思维的直接链接" title="十二、可观测性思维的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Observability；</li>
+<li>Telemetry；</li>
+<li>Monitoring。</li>
+</ul>
+<p>不能被观察的问题，就很难被稳定解决。</p>
+<p>前端可观测性包括：</p>
+<ul>
+<li>JS Error；</li>
+<li>Promise Rejection；</li>
+<li>接口错误；</li>
+<li>白屏检测；</li>
+<li>Web Vitals；</li>
+<li>用户行为路径；</li>
+<li>关键业务埋点；</li>
+<li>source map；</li>
+<li>traceId；</li>
+<li>日志上下文。</li>
+</ul>
+<p>很多线上问题难查，不是因为问题复杂，而是因为缺少证据。</p>
+<p>可观测性思维的目标，是让系统在出问题时能自己留下线索。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十三接口契约思维">十三、接口契约思维<a href="#十三接口契约思维" class="hash-link" aria-label="十三、接口契约思维的直接链接" title="十三、接口契约思维的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Design by Contract；</li>
+<li>API Contract；</li>
+<li>Schema First。</li>
+</ul>
+<p>前后端协作的稳定性，依赖契约。</p>
+<p>契约不只是字段名，还包括：</p>
+<ul>
+<li>类型；</li>
+<li>是否可空；</li>
+<li>枚举值；</li>
+<li>默认值；</li>
+<li>错误码；</li>
+<li>分页规则；</li>
+<li>排序规则；</li>
+<li>兼容策略；</li>
+<li>字段废弃方式。</li>
+</ul>
+<p>比如后端把 <code>price</code> 从 number 改成 string，如果没有契约和校验，前端可能在计算、展示、排序时出现隐蔽 bug。</p>
+<p>接口契约思维强的人，会主动关注边界值和异常路径，而不是只按 happy path 写页面。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十四状态机思维">十四、状态机思维<a href="#十四状态机思维" class="hash-link" aria-label="十四、状态机思维的直接链接" title="十四、状态机思维的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Finite State Machine；</li>
+<li>Statecharts。</li>
+</ul>
+<p>前端 UI 本质上经常是状态机。</p>
+<p>一个列表页不只有“有数据”和“没数据”。</p>
+<p>它可能有：</p>
+<ul>
+<li>初始化；</li>
+<li>loading；</li>
+<li>success；</li>
+<li>empty；</li>
+<li>error；</li>
+<li>retrying；</li>
+<li>partial success；</li>
+<li>permission denied；</li>
+<li>offline；</li>
+<li>stale data。</li>
+</ul>
+<p>如果状态没有被显式建模，代码里就会堆满互相打架的条件判断。</p>
+<p>状态机思维可以让 UI 逻辑更稳定，也更容易测试。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十五防御性设计">十五、防御性设计<a href="#十五防御性设计" class="hash-link" aria-label="十五、防御性设计的直接链接" title="十五、防御性设计的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Defensive Programming；</li>
+<li>Fail-safe；</li>
+<li>Graceful Degradation。</li>
+</ul>
+<p>用户不会永远按预期操作，网络也不会永远稳定，接口也不会永远返回正确数据。</p>
+<p>防御性设计要考虑：</p>
+<ul>
+<li>null 和 undefined；</li>
+<li>慢网络；</li>
+<li>重复点击；</li>
+<li>接口超时；</li>
+<li>请求乱序；</li>
+<li>权限过期；</li>
+<li>浏览器兼容；</li>
+<li>本地缓存污染；</li>
+<li>第三方脚本失败。</li>
+</ul>
+<p>好的前端不是只在理想环境下可用，而是在异常环境下也能尽量保持可理解、可恢复。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十六复杂度管理">十六、复杂度管理<a href="#十六复杂度管理" class="hash-link" aria-label="十六、复杂度管理的直接链接" title="十六、复杂度管理的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>KISS；</li>
+<li>YAGNI；</li>
+<li>Occam&#x27;s Razor。</li>
+</ul>
+<p>复杂度不是越低越好，而是要和问题匹配。</p>
+<p>简单需求过度设计，会让系统变重。</p>
+<p>复杂需求没有抽象，会让系统失控。</p>
+<p>比如一个只用一次的小表单，没必要上复杂表单引擎。</p>
+<p>但一个有几十个业务表单、动态校验、权限控制、联动规则的后台系统，就需要抽象表单模型、校验规则、字段配置和提交流程。</p>
+<p>复杂度管理的关键是：</p>
+<blockquote>
+<p>不提前制造复杂度，也不逃避已经存在的复杂度。</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十七层次化抽象">十七、层次化抽象<a href="#十七层次化抽象" class="hash-link" aria-label="十七、层次化抽象的直接链接" title="十七、层次化抽象的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Separation of Concerns；</li>
+<li>Clean Architecture；</li>
+<li>Modularity。</li>
+</ul>
+<p>前端代码最常见的问题之一，是所有东西都堆进组件里：</p>
+<ul>
+<li>请求；</li>
+<li>状态；</li>
+<li>权限；</li>
+<li>埋点；</li>
+<li>转换逻辑；</li>
+<li>表单校验；</li>
+<li>UI 展示；</li>
+<li>异常处理。</li>
+</ul>
+<p>层次化抽象强调把不同责任放到合适位置：</p>
+<table><thead><tr><th>层次</th><th>职责</th></tr></thead><tbody><tr><td>UI 层</td><td>展示和交互</td></tr><tr><td>State 层</td><td>页面状态和业务状态</td></tr><tr><td>Service 层</td><td>请求和副作用</td></tr><tr><td>Domain 层</td><td>业务规则</td></tr><tr><td>Infra 层</td><td>存储、日志、监控、环境差异</td></tr></tbody></table>
+<p>分层不是为了套架构，而是为了让变化发生在该发生的地方。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十八演化式设计">十八、演化式设计<a href="#十八演化式设计" class="hash-link" aria-label="十八、演化式设计的直接链接" title="十八、演化式设计的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Evolutionary Architecture；</li>
+<li>Refactoring；</li>
+<li>Incremental Delivery。</li>
+</ul>
+<p>很多系统不是一次设计出来的，而是长出来的。</p>
+<p>演化式设计强调：</p>
+<ul>
+<li>先解决真实问题；</li>
+<li>保持结构可调整；</li>
+<li>用测试保护关键行为；</li>
+<li>在变化中持续重构；</li>
+<li>把重复出现的问题沉淀为工具或规范。</li>
+</ul>
+<p>这和一次性追求完美架构不同。</p>
+<p>前端项目里，很多抽象都应该来自真实重复，而不是来自想象中的未来需求。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="十九人机协作能力">十九、人机协作能力<a href="#十九人机协作能力" class="hash-link" aria-label="十九、人机协作能力的直接链接" title="十九、人机协作能力的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Pair Programming；</li>
+<li>Code Review；</li>
+<li>Rubber Duck Debugging；</li>
+<li>Prompt Engineering。</li>
+</ul>
+<p>现在工程师解决问题，越来越依赖协作对象：</p>
+<ul>
+<li>同事；</li>
+<li>设计师；</li>
+<li>产品；</li>
+<li>后端；</li>
+<li>测试；</li>
+<li>AI。</li>
+</ul>
+<p>协作能力强的人，能把问题描述清楚：</p>
+<ul>
+<li>当前现象是什么；</li>
+<li>期望结果是什么；</li>
+<li>复现步骤是什么；</li>
+<li>已经尝试过什么；</li>
+<li>有哪些日志和截图；</li>
+<li>怀疑点是什么；</li>
+<li>希望对方帮忙判断什么。</li>
+</ul>
+<p>无论是找人帮忙，还是让 AI 协助，问题上下文越清楚，协作效率越高。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二十决策记录">二十、决策记录<a href="#二十决策记录" class="hash-link" aria-label="二十、决策记录的直接链接" title="二十、决策记录的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>ADR；</li>
+<li>RFC；</li>
+<li>Design Doc。</li>
+</ul>
+<p>重要技术决策如果不记录，团队很容易重复争论。</p>
+<p>比如：</p>
+<ul>
+<li>为什么选择 Next.js；</li>
+<li>为什么不用微前端；</li>
+<li>为什么接口层要统一封装；</li>
+<li>为什么组件库要自研或不自研；</li>
+<li>为什么埋点方案这样设计；</li>
+<li>为什么状态管理选这个方案。</li>
+</ul>
+<p>决策记录不需要很复杂，但至少应该说明：</p>
+<ul>
+<li>背景；</li>
+<li>目标；</li>
+<li>备选方案；</li>
+<li>取舍；</li>
+<li>最终选择；</li>
+<li>后续影响。</li>
+</ul>
+<p>记录的目的不是写文档，而是保存当时的上下文。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二十一标准化与规模化">二十一、标准化与规模化<a href="#二十一标准化与规模化" class="hash-link" aria-label="二十一、标准化与规模化的直接链接" title="二十一、标准化与规模化的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Playbook；</li>
+<li>Runbook；</li>
+<li>SOP；</li>
+<li>Platform Engineering。</li>
+</ul>
+<p>一个问题解决一次，是经验。</p>
+<p>同类问题可以稳定解决，是能力。</p>
+<p>标准化与规模化能力体现在：</p>
+<ul>
+<li>脚手架；</li>
+<li>组件模板；</li>
+<li>代码规范；</li>
+<li>lint 规则；</li>
+<li>CI 检查；</li>
+<li>发布流程；</li>
+<li>监控面板；</li>
+<li>故障处理手册；</li>
+<li>最佳实践文档。</li>
+</ul>
+<p>工程化的本质，就是把个人经验变成团队可以复用的系统。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二十二反脆弱性">二十二、反脆弱性<a href="#二十二反脆弱性" class="hash-link" aria-label="二十二、反脆弱性的直接链接" title="二十二、反脆弱性的直接链接">​</a></h2>
+<p>对应经典方法论：</p>
+<ul>
+<li>Resilience Engineering；</li>
+<li>Chaos Engineering；</li>
+<li>Fault Tolerance。</li>
+</ul>
+<p>系统一定会失败。</p>
+<p>区别在于：</p>
+<ul>
+<li>失败时是否可感知；</li>
+<li>失败时是否可隔离；</li>
+<li>失败时是否可降级；</li>
+<li>失败后是否可恢复；</li>
+<li>失败后是否能沉淀改进。</li>
+</ul>
+<p>比如一个前端应用，可以考虑：</p>
+<ul>
+<li>接口失败时展示降级内容；</li>
+<li>第三方脚本失败不阻塞主流程；</li>
+<li>核心链路有错误监控；</li>
+<li>静态资源有缓存和回源策略；</li>
+<li>关键操作有重试和幂等；</li>
+<li>发布失败可以快速回滚。</li>
+</ul>
+<p>反脆弱性不是追求系统永不出错，而是让系统在错误中暴露问题、吸收经验、变得更稳。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二十三整理成一个能力模型">二十三、整理成一个能力模型<a href="#二十三整理成一个能力模型" class="hash-link" aria-label="二十三、整理成一个能力模型的直接链接" title="二十三、整理成一个能力模型的直接链接">​</a></h2>
+<p>如果把这些维度合在一起，可以分成五类。</p>
+<table><thead><tr><th>类型</th><th>能力维度</th></tr></thead><tbody><tr><td>认知类</td><td>问题拆解、抽象与建模、第一性原理、系统边界感</td></tr><tr><td>分析类</td><td>结构化分析、假设与验证、根因分析、可观测性思维</td></tr><tr><td>设计类</td><td>接口契约思维、状态机思维、防御性设计、层次化抽象、复杂度管理</td></tr><tr><td>决策类</td><td>权衡与决策、风险控制、约束优化、成本收益判断</td></tr><tr><td>演进类</td><td>持续修正、演化式设计、人机协作能力、决策记录、标准化与规模化、反脆弱性</td></tr></tbody></table>
+<p>这些能力并不只属于前端。</p>
+<p>后端、客户端、算法、测试、架构、产品工程都需要这些能力。</p>
+<p>只是落到前端时，它们会体现在浏览器、UI、状态、接口、性能、构建、发布、协作这些具体场景里。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二十四一句话总结">二十四、一句话总结<a href="#二十四一句话总结" class="hash-link" aria-label="二十四 、一句话总结的直接链接" title="二十四、一句话总结的直接链接">​</a></h2>
+<p>前端工程师的能力，不只是会写页面，而是能把复杂问题放进结构里，把不确定性变成假设，把假设变成验证，把验证结果变成决策，再把一次解决问题的经验沉淀成下一次更稳定的工程系统。</p></div><footer class="row docusaurus-mt-lg blogPostFooterDetailsFull_mRVl"><div class="col margin-top--sm"><a href="https://github.com/FangHaoming/code-blog/tree/master/blog/前端工程师的问题解决能力维度.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>编辑此页</a></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="博文分页导航"><a class="pagination-nav__link pagination-nav__link--next" href="/blog/互联网行业35岁危机"><div class="pagination-nav__sublabel">较旧一篇</div><div class="pagination-nav__label">互联网行业的 35 岁危机，本质不是年龄</div></a></nav></main><div class="col col--2"><div class="tableOfContents_bqdL thin-scrollbar"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#一问题拆解" class="table-of-contents__link toc-highlight">一、问题拆解</a></li><li><a href="#二结构化分析" class="table-of-contents__link toc-highlight">二、结构化分析</a></li><li><a href="#三假设与验证" class="table-of-contents__link toc-highlight">三、假设与验证</a></li><li><a href="#四抽象与建模" class="table-of-contents__link toc-highlight">四、抽象与建模</a></li><li><a href="#五权衡与决策" class="table-of-contents__link toc-highlight">五、权衡与决策</a></li><li><a href="#六持续修正" class="table-of-contents__link toc-highlight">六、持续修正</a></li><li><a href="#七系统边界感" class="table-of-contents__link toc-highlight">七、系统边界感</a></li><li><a href="#八根因分析" class="table-of-contents__link toc-highlight">八、根因分析</a></li><li><a href="#九第一性原理" class="table-of-contents__link toc-highlight">九、第一性原理</a></li><li><a href="#十风险控制" class="table-of-contents__link toc-highlight">十、风险控制</a></li><li><a href="#十一约束优化" class="table-of-contents__link toc-highlight">十一、约束优化</a></li><li><a href="#十二可观测性思维" class="table-of-contents__link toc-highlight">十二、可观测性思维</a></li><li><a href="#十三接口契约思维" class="table-of-contents__link toc-highlight">十三、接口契约思维</a></li><li><a href="#十四状态机思维" class="table-of-contents__link toc-highlight">十四、状态机思维</a></li><li><a href="#十五防御性设计" class="table-of-contents__link toc-highlight">十五、防御性设计</a></li><li><a href="#十六复杂度管理" class="table-of-contents__link toc-highlight">十六、复杂度管理</a></li><li><a href="#十七层次化抽象" class="table-of-contents__link toc-highlight">十七、层次化抽象</a></li><li><a href="#十八演化式设计" class="table-of-contents__link toc-highlight">十八、演化式设计</a></li><li><a href="#十九人机协作能力" class="table-of-contents__link toc-highlight">十九、人机协作能力</a></li><li><a href="#二十决策记录" class="table-of-contents__link toc-highlight">二十、决策记录</a></li><li><a href="#二十一标准化与规模化" class="table-of-contents__link toc-highlight">二十一、标准化与规模化</a></li><li><a href="#二十二反脆弱性" class="table-of-contents__link toc-highlight">二十二、反脆弱性</a></li><li><a href="#二十三整理成一个能力模型" class="table-of-contents__link toc-highlight">二十三、整理成一个能力模型</a></li><li><a href="#二十四一句话总结" class="table-of-contents__link toc-highlight">二十四、一句话总结</a></li></ul></div></div></div></div></div></div>
+</body>
+</html>
